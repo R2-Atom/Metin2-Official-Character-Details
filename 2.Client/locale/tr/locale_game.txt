@@ -1,0 +1,181 @@
+DETAILS_0	Metine karþý güçlü
+DETAILS_1	Yr. insanl. krþ. gç.
+DETAILS_10	Çöl cana. krþ. güçlü
+DETAILS_11	Böcekl. karþý güçlü
+DETAILS_12	Saldýrý deðeri
+DETAILS_13	Savunma deðeri
+DETAILS_14	Ortalama hasar
+DETAILS_15	Ortl. hasar direnci
+DETAILS_16	Beceri hasarý
+DETAILS_17	Dayanýklýlýk beceri hsr.
+DETAILS_18	Büyü/yakýn sav. sal.
+DETAILS_19	Büyü saldýrýsý
+DETAILS_2	Yarý insan direnci
+DETAILS_20	Krit. isabet þansý
+DETAILS_21	Delici isabet
+DETAILS_22	Kritik vuruþ direnci
+DETAILS_23	Del. isabet direnci
+DETAILS_24	Þimþek direnci
+DETAILS_25	Buz direnci
+DETAILS_26	Karanlýða kr. direnç
+DETAILS_27	Ateþe karþý direnç
+DETAILS_28	Rüzgara karþý direnç
+DETAILS_29	Toprak direnci
+DETAILS_3	Orklara karþý güçlü
+DETAILS_30	Þimþeklerin gücü
+DETAILS_31	Buzun gücü
+DETAILS_32	Karanlýðýn gücü
+DETAILS_33	Ateþin gücü
+DETAILS_34	Rüzgarýn gücü
+DETAILS_35	Topraðýn gücü
+DETAILS_36	Savaþçý. krþ. güçlü
+DETAILS_37	Ninjal. krþ. güçlü
+DETAILS_38	Suralara karþý güçlü
+DETAILS_39	Þamanl. karþý güçlü
+DETAILS_4	Ölümsüz. karþý güçlü
+DETAILS_40	Lycanl. karþý güçlü
+DETAILS_41	Savaþçýl. krþ. sav.
+DETAILS_42	Ninjal. karþý savun.
+DETAILS_43	Sural. karþý savunma
+DETAILS_44	Þamanlara karþý sav.
+DETAILS_45	Lycan. karþý savunma
+DETAILS_46	Kýlýç savunmasý
+DETAILS_47	Çift el savunmasý
+DETAILS_48	Hançer savunmasý
+DETAILS_49	Pençe savunmasý
+DETAILS_5	Canavarl. krþ. güçlü
+DETAILS_50	Çan savunmasý
+DETAILS_51	Yelpaze savunmasý
+DETAILS_52	Ok savunmasý
+DETAILS_53	Bayýlma olasýlýðý
+DETAILS_54	Yavaþlama þansý
+DETAILS_55	Zehirlenme olasýlýðý
+DETAILS_56	Zehir direnci
+DETAILS_57	Kanama saldýrýsý
+DETAILS_58	Kanama saldýr. dir.
+DETAILS_59	Hayat yaðmasý
+DETAILS_6	Zod. canv. krþ. güç.
+DETAILS_60	SP yaðmasý
+DETAILS_61	HP yükleme
+DETAILS_62	SP yükleme
+DETAILS_63	Saldýrý engelleme
+DETAILS_64	Ok saldýr. sýyrýlma
+DETAILS_65	Yak. dövüþ yansýmasý
+DETAILS_66	Öldürmede HP yenile.
+DETAILS_67	Öldürmede SP yenile.
+DETAILS_68	2 kat EXP
+DETAILS_69	2 kat Yang
+DETAILS_7	Hayvanl. karþý güçlü
+DETAILS_70	Düþürme þansý
+DETAILS_71	Saldýrý deðeri
+DETAILS_72	Savunma
+DETAILS_73	EXP
+DETAILS_74	Düþürme þansý
+DETAILS_75	2 kat Yang
+DETAILS_76	Büyüye karþý direnç
+DETAILS_77	Büyü bozma
+DETAILS_8	Mistikl. karþý güçlü
+DETAILS_9	Þeytanl. karþý güçlü
+DETAILS_ATTBONUS_BELL	Çanýn Kýrýlmasý
+DETAILS_ATTBONUS_BOW	Okun Kýrýlmasý
+DETAILS_ATTBONUS_CLAW	Pençenin Kýrýlmasý
+DETAILS_ATTBONUS_DAGGER	Hançerin Kýrýlmasý
+DETAILS_ATTBONUS_FAN	Yelpazenin Kýrýlmasý
+DETAILS_ATTBONUS_SWORD	Kýlýcýn Kýrýlmasý
+DETAILS_ATTBONUS_TWOHAND	Çift Elin Kýrýlmasý
+DETAILS_CATE_1	Hasar/savunma
+DETAILS_CATE_2	Temel bonuslar
+DETAILS_CATE_3	Sýnýf bonuslarý
+DETAILS_CATE_4	Silah bonuslarý
+DETAILS_CATE_5	Diðer bonuslar
+DETAILS_CATE_6	Özel bonuslar
+DETAILS_HIT_PCT	Tamlýk
+DETAILS_RESIST_MOUNT_FALL	Düþmeye Karþý Dayanýklýlýk
+DETAILS_TITLE	Ayrýntýlar
+DETAILS_TOOLTIP_0	Metin karþýsýnda güçlü: Metin taþlarýna daha büyük hasar verir.
+DETAILS_TOOLTIP_1	Yarý insanlara karþý güçlü: Yarý insanlara daha büyük hasar verir.
+DETAILS_TOOLTIP_10	Çöl canavarýna karþý güçlü: Çöl canavarlarýna daha büyük hasar verir.
+DETAILS_TOOLTIP_11	Böceklere karþý güçlü: Böceklere daha büyük hasar verir.
+DETAILS_TOOLTIP_12	Saldýrý deðerini artýrýr.
+DETAILS_TOOLTIP_13	Savunma deðerini artýrýr.
+DETAILS_TOOLTIP_14	Rakiplere saldýrýrken verdiðin ortalama hasarý yükseltir.
+DETAILS_TOOLTIP_15	Ortalama hasara karþý direnç: Bir saldýrýda aldýðýn hasarý düþürür.
+DETAILS_TOOLTIP_16	Bir becerinin meydana getirdiði hasarý artýrýr.
+DETAILS_TOOLTIP_17	Beceri hasarýna direnç: Sana bir yetenekle verilen hasarý düþürür.
+DETAILS_TOOLTIP_18	Hem bedensel hem de büyü saldýrý deðeri yükselir.
+DETAILS_TOOLTIP_19	Rakiplere bir büyü saldýrýsýyla verdiðin hasarý yükseltir.
+DETAILS_TOOLTIP_2	Yarý insanlara karþý direnç: Yarý insanlardan alýnan hasarý düþürür.
+DETAILS_TOOLTIP_20	Bir kritik vuruþ meydana getirme þansýný yükseltir.
+DETAILS_TOOLTIP_21	Delici isabet þansý: Delici isabet yapma þansýný artýrýr.
+DETAILS_TOOLTIP_22	Kritik isabete karþý direnç: Bir kritik vuruþla meydana getirilen hasarý düþürür.
+DETAILS_TOOLTIP_23	Delici isabete karþý direnç: Bir delici isabetle meydana getirilen hasarý düþürür.
+DETAILS_TOOLTIP_24	Belli canavarlardan alýnan hasarý düþürür.
+DETAILS_TOOLTIP_25	Belli canavarlardan alýnan hasarý düþürür.
+DETAILS_TOOLTIP_26	Karanlýða karþý direnç: Belli canavarlardan alýnan hasarý düþürür.
+DETAILS_TOOLTIP_27	Belli canavarlardan alýnan hasarý düþürür.
+DETAILS_TOOLTIP_28	Belli canavarlardan alýnan hasarý düþürür.
+DETAILS_TOOLTIP_29	Belli canavarlardan alýnan hasarý düþürür.
+DETAILS_TOOLTIP_3	Orklar karþýsýnda güçlü: Orklara daha çok hasar verir.
+DETAILS_TOOLTIP_30	Þimþeklerin gücüyle verdiðin hasarý artýrýr.
+DETAILS_TOOLTIP_31	Buzun gücüyle verdiðin hasarý artýrýr.
+DETAILS_TOOLTIP_32	Karanlýðýn gücüyle verdiðin hasarý artýrýr.
+DETAILS_TOOLTIP_33	Ateþin gücüyle verdiðin hasarý artýrýr.
+DETAILS_TOOLTIP_34	Rüzgarýn gücüyle verdiðin hasarý artýrýr.
+DETAILS_TOOLTIP_35	Topraðýn gücüyle verdiðin hasarý artýrýr.
+DETAILS_TOOLTIP_36	Savaþçýlar karþýsýnda güçlü: Savaþçýlara daha çok hasar verir.
+DETAILS_TOOLTIP_37	Ninjalar karþýsýnda güçlü: Ninjalara daha çok hasar verir.
+DETAILS_TOOLTIP_38	Sura karþýsýnda güçlü: Suralara daha çok hasar verir.
+DETAILS_TOOLTIP_39	Þamanlar karþýsýnda güçlü: Þamanlara daha çok hasar verir.
+DETAILS_TOOLTIP_4	Ölümsüzler karþýsýnda güçlü: Ölümsüzlere daha çok hasar verir.
+DETAILS_TOOLTIP_40	Lycanlar karþýsýnda güçlü: Lycanlara daha çok hasar verir.
+DETAILS_TOOLTIP_41	Savaþçý saldýrýlarýný savuþturma þansý: Savaþçýlardan alýnan hasarý azaltýr.
+DETAILS_TOOLTIP_42	Ninja saldýrýlarýný savuþturma þansý: Ninjalardan alýnan hasarý azaltýr.
+DETAILS_TOOLTIP_43	Sura saldýrýlarýný savuþturma þansý: Suralardan alýnan hasarý azaltýr.
+DETAILS_TOOLTIP_44	Þaman saldýrýlarýný savuþturma þansý: Þamanlardan alýnan hasarý azaltýr.
+DETAILS_TOOLTIP_45	Lycan saldýrýlarýný savuþturma þansý: Lycanlardan alýnan hasarý azaltýr.
+DETAILS_TOOLTIP_46	Bir kýlýçtan alýnan hasarý düþürür.
+DETAILS_TOOLTIP_47	Bir çift el silahtan alýnan hasarý düþürür.
+DETAILS_TOOLTIP_48	Bir hançerden alýnan hasarý düþürür.
+DETAILS_TOOLTIP_49	Bir pençeden alýnan hasarý düþürür.
+DETAILS_TOOLTIP_5	Canavarlar karþýsýnda güçlü: Canavarlara daha çok hasar verir.
+DETAILS_TOOLTIP_50	Bir çandan alýnan hasarý düþürür.
+DETAILS_TOOLTIP_51	Bir yelpazeden alýnan hasarý düþürür.
+DETAILS_TOOLTIP_52	Bir ok veya yaydan alýnan hasarý düþürür.
+DETAILS_TOOLTIP_53	Rakibi bayýltma þansýný yükseltir.
+DETAILS_TOOLTIP_54	Rakibi yavaþlama þansýný yükseltir.
+DETAILS_TOOLTIP_55	Rakibi zehirleme þansýný yükseltir.
+DETAILS_TOOLTIP_56	Bir zehirden alýnan hasarý düþürür.
+DETAILS_TOOLTIP_57	Bir kanama saldýrýsý meydana getirme þansýný yükseltir.
+DETAILS_TOOLTIP_58	Kanama saldýrýsý karþýsýnda güçlü: Bir kanama saldýrýsýndan alýnan hasarý düþürür.
+DETAILS_TOOLTIP_59	Rakibinle karþýlaþtýðýnda ondan HP çeker.
+DETAILS_TOOLTIP_6	Zodyak canavarlarýna karþý güçlü: Zodyaük canavarlarýna daha büyük hasar verir.
+DETAILS_TOOLTIP_60	Rakibinle karþýlaþtýðýnda ondan SP çeker.
+DETAILS_TOOLTIP_61	Hayat puanlarýnýn yenilenmesini hýzlandýrýr.
+DETAILS_TOOLTIP_62	Mana puanlarýnýn yenilenmesini hýzlandýrýr.
+DETAILS_TOOLTIP_63	Yakýn dövüþ saldýrýlarýný bloklama þansý: Bir yakýn dövüþ saldýrýsýndan sýyrýlma þansýný artýrýr.
+DETAILS_TOOLTIP_64	Ok saldýrýlarýný bloklama þansý: Bir canavarýn ok veya uzak saldýrýsýndan sýyrýlma þansýný artýrýr.
+DETAILS_TOOLTIP_65	Yakýn dövüþ vuruþlarýný yansýtma þansý: Yakýn dövüþ vuruþlarýnýn bir kýsmý rakibe geri yansýtýlýr.
+DETAILS_TOOLTIP_66	Öldürmede HP yenilemesi: Bir rakip öldürdüðünde hayat puanlarýn yükselir.
+DETAILS_TOOLTIP_67	Öldürmede SP yenilemesi: Bir rakip öldürdüðünde mana puanlarýn yükselir.
+DETAILS_TOOLTIP_68	Ýki kat tecrübe kazanma þansý: Rakibini yendiðinde EXP bonusu kazanma þansýný artýrýr.
+DETAILS_TOOLTIP_69	Ýki kat Yang düþürme þansý: Ýki kat Yang elde etme þansýný artýrýr.
+DETAILS_TOOLTIP_7	Hayvanlar karþýsýnda güçlü: Vahþi hayvanlara daha çok hasar verir.
+DETAILS_TOOLTIP_70	Nesne düþürme þansý: Nesneleri çift çift elde etme þansýný artýrýr.
+DETAILS_TOOLTIP_71	Saldýrý deðerini artýrýr.
+DETAILS_TOOLTIP_72	Savunma deðerini artýrýr.
+DETAILS_TOOLTIP_73	Tecrübe toplamayý artýrýr.
+DETAILS_TOOLTIP_74	Nesne düþürme þansý: Nesne elde etme þansýný artýrýr.
+DETAILS_TOOLTIP_75	Yang düþürme þansý: Daha fazla Yang elde etme þansýný artýrýr.
+DETAILS_TOOLTIP_76	Büyü saldýrýsýyla aldýðýn hasarý düþürür.
+DETAILS_TOOLTIP_77	Rakibinin büyü direncini düþürür.
+DETAILS_TOOLTIP_8	Mistikler karþýsýnda güçlü: Mistiklere daha çok hasar verir.
+DETAILS_TOOLTIP_9	Þeytanlar karþýsýnda güçlü: Canavarlara daha çok hasar verir.
+DETAILS_TOOLTIP_ATTBONUS_BELL	Çan Savunmasýnýn Kýrýlmasý: Düþmanýnýn çan savunmasýný azaltýr.
+DETAILS_TOOLTIP_ATTBONUS_BOW	Ok Savunmasýnýn Kýrýlmasý: Düþmanýnýn ok savunmasýný azaltýr.
+DETAILS_TOOLTIP_ATTBONUS_CLAW	Pençe Savunmasýnýn Kýrýlmasý: Düþmanýnýn pençe savunmasýný azaltýr.
+DETAILS_TOOLTIP_ATTBONUS_DAGGER	Hançer Savunmasýnýn Kýrýlmasý: Düþmanýnýn hançer savunmasýný azaltýr.
+DETAILS_TOOLTIP_ATTBONUS_FAN	Yelpaze Savunmasýnýn Kýrýlmasý: Düþmanýnýn yelpaze savunmasýný azaltýr.
+DETAILS_TOOLTIP_ATTBONUS_SWORD	Kýlýç Savunmasýnýn Kýrýlmasý: Düþmanýnýn kýlýç savunmasýný azaltýr.
+DETAILS_TOOLTIP_ATTBONUS_TWOHAND	Çift El Savunmasýnýn Kýrýlmasý: Düþmanýnýn çift el savunmasýný azaltýr.
+DETAILS_TOOLTIP_HIT_PCT	Rakibi vurma þansýný yükseltir.
+DETAILS_TOOLTIP_RESIST_MOUNT_FALL	Düþmeye Karþý Dayanýklýlýk: Bineðinden düþme ihtimalini azaltýr.

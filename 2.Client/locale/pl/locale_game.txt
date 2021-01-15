@@ -1,0 +1,181 @@
+DETAILS_0	Si³a vs Metin
+DETAILS_1	Si³a vs Ludziom
+DETAILS_10	Si³a vs Pot. Pustyni
+DETAILS_11	Si³a vs Insektom
+DETAILS_12	Si³a Ataku
+DETAILS_13	Si³a Obrony
+DETAILS_14	Przeciêtne Obra¿enia
+DETAILS_15	Odp. na Przeciê.Obr.
+DETAILS_16	Obra¿. umiejêtnoœci
+DETAILS_17	Odpornoœæ na obra¿. umiej.
+DETAILS_18	Mag./Krótkodyst. Atak
+DETAILS_19	Magiczny Atak
+DETAILS_2	Odpornoœæ vs Ludziom
+DETAILS_20	Szansa na Cios Kryt.
+DETAILS_21	Przeszyw. Cios
+DETAILS_22	Odp. na Przesz. Cios
+DETAILS_23	Odp. na Przesz. Cios
+DETAILS_24	Odp. na B³yskawice
+DETAILS_25	Odp. na Lód
+DETAILS_26	Odp. na Mrok
+DETAILS_27	Odp. na Ogieñ
+DETAILS_28	Odp. na Wiatr
+DETAILS_29	Odp. na Ziemiê
+DETAILS_3	Si³a vs Orkom
+DETAILS_30	Moc B³yskawic
+DETAILS_31	Moc Lodu
+DETAILS_32	Moc Mroku
+DETAILS_33	Moc Ognia
+DETAILS_34	Moc Wiatru
+DETAILS_35	Moc Ziemi
+DETAILS_36	Si³a vs Wojownikom
+DETAILS_37	Si³a vs Ninja
+DETAILS_38	Si³a vs Sura
+DETAILS_39	Si³a vs Szamanom
+DETAILS_4	Si³a vs Nieumar³ym
+DETAILS_40	Si³a vs Likanom
+DETAILS_41	Obrona vs Wojownikom
+DETAILS_42	Obrona vs Ninja
+DETAILS_43	Obrona vs Sura
+DETAILS_44	Obrona vs Szamanom
+DETAILS_45	Obrona vs Likanom
+DETAILS_46	Odpornoœæ na Miecz
+DETAILS_47	Odp. na Br. Dwurêczn¹
+DETAILS_48	Odpornoœæ na Sztylet
+DETAILS_49	Odpornoœæ na Szpon
+DETAILS_5	Si³a vs Potworom
+DETAILS_50	Odpornoœæ na Dzwon
+DETAILS_51	Odpornoœæ na Wachlarz
+DETAILS_52	Odpornoœæ na Strza³
+DETAILS_53	Szansa na Omdlenie
+DETAILS_54	Szansa na Spowolnie.
+DETAILS_55	Szansa na Zatrucie
+DETAILS_56	Odp. na Truciznê
+DETAILS_57	Atak Krwawienia
+DETAILS_58	Odp. Atak Krw.
+DETAILS_59	Kradzie¿ ¯ycia
+DETAILS_6	Si³a vs Potw. Zodiaku
+DETAILS_60	Kradzie¿ PE
+DETAILS_61	Regeneracja P¯
+DETAILS_62	Regeneracja PE
+DETAILS_63	Blok Ataku
+DETAILS_64	Unik Strza³y
+DETAILS_65	Odbicie Walki. Wrêcz
+DETAILS_66	Reg. P¯ przy Zabiciu
+DETAILS_67	Reg. PE przy Zabiciu
+DETAILS_68	2x PD
+DETAILS_69	2x Yang
+DETAILS_7	Si³a vs Zwierzêtom
+DETAILS_70	Szansa Dropu
+DETAILS_71	Si³a Ataku
+DETAILS_72	Obrona
+DETAILS_73	PD
+DETAILS_74	Szansa Dropu
+DETAILS_75	2x Yang
+DETAILS_76	Odp. na Magiê
+DETAILS_77	Antymagia
+DETAILS_8	Si³a vs Mistykom
+DETAILS_9	Si³a vs Diab³om
+DETAILS_ATTBONUS_BELL	Z³amanie Dzwonu
+DETAILS_ATTBONUS_BOW	Z³amanie Strza³y
+DETAILS_ATTBONUS_CLAW	Z³amanie Szponów
+DETAILS_ATTBONUS_DAGGER	Z³amanie Sztyletu
+DETAILS_ATTBONUS_FAN	Z³amanie Wachlarza
+DETAILS_ATTBONUS_SWORD	Z³amanie Miecza
+DETAILS_ATTBONUS_TWOHAND	Z³amanie Broni oburêcznej
+DETAILS_CATE_1	Obra¿enia/Obrona
+DETAILS_CATE_2	Bonusy ¿ywio³owe
+DETAILS_CATE_3	Bonusy klasowe
+DETAILS_CATE_4	Bonus broni
+DETAILS_CATE_5	Inne bonusy
+DETAILS_CATE_6	Bonusy specjalne
+DETAILS_HIT_PCT	Precyzja
+DETAILS_RESIST_MOUNT_FALL	Odpornoœæ na Upadek
+DETAILS_TITLE	Szczegó³y
+DETAILS_TOOLTIP_0	Si³a w walce z kamieniami Metin: zadaje wiêksze obra¿enia kamieniom Metin
+DETAILS_TOOLTIP_1	Si³a w walce z LudŸmi: zadaje wiêcej obra¿eñ Ludziom.
+DETAILS_TOOLTIP_10	Si³a w walce z potworami pustyni: zadaje wiêksze obra¿enia potworom pustyni.
+DETAILS_TOOLTIP_11	Si³a w walce z insektami: zadaje wiêksze obra¿enia insektom.
+DETAILS_TOOLTIP_12	Zwiêksza twoj¹ si³ê ataku.
+DETAILS_TOOLTIP_13	Zwiêksza twoj¹ si³ê obrony.
+DETAILS_TOOLTIP_14	Zwiêksza przeciêtne obra¿enia, które zadajesz przeciwnikom podczas ataku
+DETAILS_TOOLTIP_15	Odpornoœæ na przeciêtne obra¿enia: zmniejsza obra¿enia, które odnosisz podczas ataku.
+DETAILS_TOOLTIP_16	Zwiêksza obra¿enia zadawane przez umiejêtnoœæ.
+DETAILS_TOOLTIP_17	Odpornoœæ na obra¿enia umiejêtnoœci: zmniejsza obra¿enia, które odnosisz wskutek umiejêtnoœci.
+DETAILS_TOOLTIP_18	Zwiêksza zarówno fizyczn¹ jak i magiczn¹ si³ê ataku.
+DETAILS_TOOLTIP_19	Zwiêksza obra¿enia, które zadajesz przeciwnikom za pomoc¹ magicznych ataków.
+DETAILS_TOOLTIP_2	Odpornoœæ na Ludzi: zmniejsza obra¿enia zadawane przez Ludzi.
+DETAILS_TOOLTIP_20	Zwiêksza szansê na zadanie ciosu krytycznego.
+DETAILS_TOOLTIP_21	Szansa na przeszywaj¹cy cios: zwiêksza szansê na zadanie przeszywaj¹cego ciosu.
+DETAILS_TOOLTIP_22	Odpornoœæ na cios krytyczny: zmniejsza obra¿enia odnoszone wskutek ciosu krytycznego.
+DETAILS_TOOLTIP_23	Odpornoœæ na przeszywaj¹cy cios: zmniejsza obra¿enia odnoszone wskutek przeszywaj¹cego ciosu.
+DETAILS_TOOLTIP_24	Zmniejsza obra¿enia zadawane przez okreœlone potwory.
+DETAILS_TOOLTIP_25	Zmniejsza obra¿enia zadawane przez okreœlone potwory.
+DETAILS_TOOLTIP_26	Odpornoœæ na mrok: zmniejsza obra¿enia zadawane przez okreœlone potwory.
+DETAILS_TOOLTIP_27	Zmniejsza obra¿enia zadawane przez okreœlone potwory.
+DETAILS_TOOLTIP_28	Zmniejsza obra¿enia zadawane przez okreœlone potwory.
+DETAILS_TOOLTIP_29	Zmniejsza obra¿enia zadawane przez okreœlone potwory.
+DETAILS_TOOLTIP_3	Si³a w walce z orkami: zadaje wiêksze obra¿enia orkom.
+DETAILS_TOOLTIP_30	Zwiêksza obra¿enia, które zadajesz za pomoc¹ b³yskawic.
+DETAILS_TOOLTIP_31	Zwiêksza obra¿enia, które zadajesz za pomoc¹ lodu.
+DETAILS_TOOLTIP_32	Zwiêksza obra¿enia, które zadajesz za pomoc¹ mroku.
+DETAILS_TOOLTIP_33	Zwiêksza obra¿enia, które zadajesz za pomoc¹ ognia.
+DETAILS_TOOLTIP_34	Zwiêksza obra¿enia, które zadajesz za pomoc¹ wiatru.
+DETAILS_TOOLTIP_35	Zwiêksza obra¿enia, które zadajesz za pomoc¹ ziemi.
+DETAILS_TOOLTIP_36	Si³a w walce z wojownikami: zadaje wiêksze obra¿enia wojownikom.
+DETAILS_TOOLTIP_37	Si³a w walce z ninja: zadaje wiêksze obra¿enia ninja.
+DETAILS_TOOLTIP_38	Si³a w walce z sura: zadaje wiêksze obra¿enia sura.
+DETAILS_TOOLTIP_39	Si³a w walce z szamanami: zadaje wiêksze obra¿enia szamanom.
+DETAILS_TOOLTIP_4	Si³a w walce z nieumar³ymi: zadaje wiêksze obra¿enia nieumar³ym.
+DETAILS_TOOLTIP_40	Si³a w walce z likanami: zadaje wiêksze obra¿enia likanom.
+DETAILS_TOOLTIP_41	Odpornoœæ na Wojowników: zmniejsza obra¿enia, które odnosisz z rêki Wojowników.
+DETAILS_TOOLTIP_42	Odpornoœæ na Ninja: zmniejsza obra¿enia, które odnosisz z rêki Ninja.
+DETAILS_TOOLTIP_43	Odpornoœæ na Sura: zmniejsza obra¿enia, które odnosisz z rêki Sura.
+DETAILS_TOOLTIP_44	Odpornoœæ na Szamanów: zmniejsza obra¿enia, które odnosisz z rêki Szamanów.
+DETAILS_TOOLTIP_45	Odpornoœæ na Likanów: zmniejsza obra¿enia, które odnosisz z rêki Likanów.
+DETAILS_TOOLTIP_46	Zmniejsza obra¿enia zadawane mieczem.
+DETAILS_TOOLTIP_47	Zmniejsza obra¿enia zadawane broni¹ dwurêczn¹.
+DETAILS_TOOLTIP_48	Zmniejsza obra¿enia zadawane sztyletem.
+DETAILS_TOOLTIP_49	Zmniejsza obra¿enia zadawane szponem.
+DETAILS_TOOLTIP_5	Si³a w walce z potworami: zadaje wiêksze obra¿enia potworom.
+DETAILS_TOOLTIP_50	Zmniejsza obra¿enia zadawane dzwonem.
+DETAILS_TOOLTIP_51	Zmniejsza obra¿enia zadawane wachlarzem.
+DETAILS_TOOLTIP_52	Zmniejsza obra¿enia zadawane ³ukiem i strza³ami.
+DETAILS_TOOLTIP_53	Zwiêksza szansê wywo³ania u przeciwnika efektu omdlenia.
+DETAILS_TOOLTIP_54	Zwiêksza szansê na spowolnienie przeciwnika.
+DETAILS_TOOLTIP_55	Zwiêksza szansê na zatrucie przeciwnika.
+DETAILS_TOOLTIP_56	Zmniejsza obra¿enia zadawane trucizn¹.
+DETAILS_TOOLTIP_57	Zwiêksza szansê na wykonanie ataku krwawienia.
+DETAILS_TOOLTIP_58	Odpornoœæ na atak krwawienia: zmniejsza obra¿enia zadawane atakiem krwawienia.
+DETAILS_TOOLTIP_59	Przy trafieniu absorbuje P¯ przeciwnika.
+DETAILS_TOOLTIP_6	Si³a w walce z potworami Zodiaku: zadaje wiêksze obra¿enia potworom Zodiaku.
+DETAILS_TOOLTIP_60	Przy trafieniu absorbuje PE przeciwnika.
+DETAILS_TOOLTIP_61	Przyspiesza regeneracjê twoich punktów ¿ycia.
+DETAILS_TOOLTIP_62	Przyspiesza regeneracjê twoich punktów energii.
+DETAILS_TOOLTIP_63	Szansa na blok ciosów: zwiêksza szansê na unikniêcie ataku z krótkiego dystansu.
+DETAILS_TOOLTIP_64	Szansa na unikniêcie strza³y: zwiêksza szansê na unikniêcie strza³y lub d³ugodystansowego ataku potwora.
+DETAILS_TOOLTIP_65	Szansa na odbicie ciosu: czêœæ obra¿eñ od ciosu jest odbijana do przeciwnika.
+DETAILS_TOOLTIP_66	Regeneracja P¯ przy zabiciu: zabicie przeciwnika podwy¿sza twoje punkty ¿ycia.
+DETAILS_TOOLTIP_67	Regeneracja PE przy zabiciu: zabicie przeciwnika podwy¿sza twoje punkty energii.
+DETAILS_TOOLTIP_68	Szansa na otrzymanie podwójnego doœwiadczenia: zwiêksza szansê na bonusowe PD po pokonaniu przeciwnika.
+DETAILS_TOOLTIP_69	Szansa na drop podwójnej iloœci Yang: zwiêksza szansê na otrzymanie podwójnej iloœci Yang.
+DETAILS_TOOLTIP_7	Si³a w walce ze zwierzêtami: zadaje wiêksze obra¿enia dzikim zwierzêtom.
+DETAILS_TOOLTIP_70	Szansa na drop przedmiotów: zwiêksza szansê na podwójny ³up przedmiotów.
+DETAILS_TOOLTIP_71	Zwiêksza twoj¹ si³ê ataku.
+DETAILS_TOOLTIP_72	Zwiêksza twoj¹ si³ê obrony.
+DETAILS_TOOLTIP_73	Zwiêksza wzrost doœwiadczenia.
+DETAILS_TOOLTIP_74	Szansa na drop przedmiotów: zwiêksza szansê na zdobycie przedmiotów.
+DETAILS_TOOLTIP_75	Szansa na drop Yang: zwiêksza szansê na zdobycie wiêcej Yang.
+DETAILS_TOOLTIP_76	Zmniejsza obra¿enia odnoszone wskutek magicznych ataków.
+DETAILS_TOOLTIP_77	Zmniejsza odpornoœæ na magiê twojego przeciwnika.
+DETAILS_TOOLTIP_8	Si³a w walce z mistykami: zadaje wiêksze obra¿enia mistykom.
+DETAILS_TOOLTIP_9	Si³a w walce diab³ami: zadaje wiêksze obra¿enia diab³om.
+DETAILS_TOOLTIP_ATTBONUS_BELL	Z³amanie Odpornoœci na Dzwony: zmniejsza odpornoœæ na dzwony przeciwnika.
+DETAILS_TOOLTIP_ATTBONUS_BOW	Z³amanie Odpornoœci na Strza³y: zmniejsza odpornoœæ na strza³y przeciwnika.
+DETAILS_TOOLTIP_ATTBONUS_CLAW	Z³amanie Odpornoœci na Szpony: zmniejsza odpornoœæ na szpony przeciwnika.
+DETAILS_TOOLTIP_ATTBONUS_DAGGER	Z³amanie Odpornoœci na Sztylety: zmniejsza odpornoœæ na sztylety przeciwnika.
+DETAILS_TOOLTIP_ATTBONUS_FAN	Z³amanie Odpornoœci na Wachlarze: zmniejsza odpornoœæ na wachlarze przeciwnika.
+DETAILS_TOOLTIP_ATTBONUS_SWORD	Z³amanie Odpornoœci na Miecze: zmniejsza odpornoœæ na miecze przeciwnika.
+DETAILS_TOOLTIP_ATTBONUS_TWOHAND	Z³amanie Odpornoœci na Bronie oburêczne: zmniejsza odpornoœæ na bronie oburêczne przeciwnika.
+DETAILS_TOOLTIP_HIT_PCT	Zwiêksza szansê na trafienie przeciwnika
+DETAILS_TOOLTIP_RESIST_MOUNT_FALL	Odpornoœæ na Upadek: zmniejsza ryzyko upadku z wierzchowca.

@@ -1,0 +1,181 @@
+DETAILS_0	Stærk imod Metin
+DETAILS_1	Stæ. vs Halv Mennes.
+DETAILS_10	Stæ. vs Ørken Monst.
+DETAILS_11	Stæ. vs Insekter
+DETAILS_12	Angrebsværdi
+DETAILS_13	Forsvarsværdi
+DETAILS_14	Gennemsnitlig Skade
+DETAILS_15	Gennemsni. Skd. Mod.
+DETAILS_16	Færdigheds Skade
+DETAILS_17	Færdigheds Skade Modstand
+DETAILS_18	Magi/Nærkamps Angreb
+DETAILS_19	Magisk Angreb
+DETAILS_2	Mod. im. Halv Menne.
+DETAILS_20	Kritisk Slag Chance
+DETAILS_21	Gennemborende Træf
+DETAILS_22	Kritisk Slag Mods.
+DETAILS_23	Gennembo. Træf Mods.
+DETAILS_24	Lynmodstand
+DETAILS_25	Is Modstand
+DETAILS_26	Mørke Modstand
+DETAILS_27	Ild Modstand
+DETAILS_28	Luft Modstand
+DETAILS_29	Jord Modstand
+DETAILS_3	Stærk imod Orker
+DETAILS_30	Lynets Kraft
+DETAILS_31	Isens Kraft
+DETAILS_32	Mørkets Kraft
+DETAILS_33	Ildens Kraft
+DETAILS_34	Vindens Kraft
+DETAILS_35	Jordens Kraft
+DETAILS_36	Stærk imod Krigere
+DETAILS_37	Stærk imod Ninjaer
+DETAILS_38	Stærk imod Suraer
+DETAILS_39	Stærk imod Shamaner
+DETAILS_4	Stærk imod Udøde
+DETAILS_40	Stærk imod Lycaner
+DETAILS_41	Forsvar vs Krigere
+DETAILS_42	Forsvar vs Ninjaer
+DETAILS_43	Forsvar vs Suraer
+DETAILS_44	Forsvar vs Shamaner
+DETAILS_45	Forsvar vs Lycaner
+DETAILS_46	Sværd Forsvar
+DETAILS_47	To-hånds Forsvar
+DETAILS_48	Dolk Forsvar
+DETAILS_49	Klo Forsvar
+DETAILS_5	Stærk imod Monstre
+DETAILS_50	Klokkeforsvar
+DETAILS_51	Vifteforsvar
+DETAILS_52	Pil Forsvar
+DETAILS_53	Besvimelses Chance
+DETAILS_54	Sløv Chance
+DETAILS_55	Gift Chance
+DETAILS_56	Gift Modstand
+DETAILS_57	Blødnings Angreb
+DETAILS_58	Blødning Angreb Mod.
+DETAILS_59	Stjæl HP
+DETAILS_6	Stæ. vs Zodiac Mon.
+DETAILS_60	Stjæl MP
+DETAILS_61	HP Gendannelse
+DETAILS_62	MP Gendannelse
+DETAILS_63	Bloker Angreb
+DETAILS_64	Undgå Pil Angreb
+DETAILS_65	Ref. Nærkamps Angreb
+DETAILS_66	HP Gendan. på Drab
+DETAILS_67	MP Gendan. på Drab
+DETAILS_68	Dobbelt EXP
+DETAILS_69	Dobbelt Yang
+DETAILS_7	Stærk imod Dyr
+DETAILS_70	Drop Sandsynlighed
+DETAILS_71	Angrebsværdi
+DETAILS_72	Forsvarsværdi
+DETAILS_73	EXP
+DETAILS_74	Drop Sandsynlighed
+DETAILS_75	Dobbelt Yang
+DETAILS_76	Magi Modstand
+DETAILS_77	Anti-Magi
+DETAILS_8	Stærk vs Esoterikere
+DETAILS_9	Stærk imod Djævle
+DETAILS_ATTBONUS_BELL	Klokke brud
+DETAILS_ATTBONUS_BOW	Pil brud
+DETAILS_ATTBONUS_CLAW	Klo brud
+DETAILS_ATTBONUS_DAGGER	Dolk brud
+DETAILS_ATTBONUS_FAN	Vifte brud
+DETAILS_ATTBONUS_SWORD	Sværd brud
+DETAILS_ATTBONUS_TWOHAND	To-hånds brud
+DETAILS_CATE_1	Skade/Forsvar
+DETAILS_CATE_2	Elementær bonus
+DETAILS_CATE_3	Klasse bonus
+DETAILS_CATE_4	Våben bonus
+DETAILS_CATE_5	Anden bonus
+DETAILS_CATE_6	Special bonus
+DETAILS_HIT_PCT	Præcision
+DETAILS_RESIST_MOUNT_FALL	Falds modstand
+DETAILS_TITLE	Detaljer
+DETAILS_TOOLTIP_0	Stærk imod Metin-sten: Giver tungere skade imod Metin-sten.
+DETAILS_TOOLTIP_1	Stærke imod Halv Mennesker: Giver tungere skade imod Halv Mennesker.
+DETAILS_TOOLTIP_10	Stærke imod Ørken Monstre: Giver tungere skade imod ørken monstre.
+DETAILS_TOOLTIP_11	Stærke imod Insekter: Giver tungere skade imod insekter.
+DETAILS_TOOLTIP_12	Øger din angrebsværdi.
+DETAILS_TOOLTIP_13	Øger din forsvarsværdi.
+DETAILS_TOOLTIP_14	Øger den gennemsnitlige skade du giver imod fjender på et angreb.
+DETAILS_TOOLTIP_15	Modstand imod gennemsnitlig skade: reducerer den skade du tager på et angreb.
+DETAILS_TOOLTIP_16	Øger skaden der gives med en færdighed.
+DETAILS_TOOLTIP_17	Modstand imod færdigheds skade: Reducerer skaden der gives mod dig med en færdighed.
+DETAILS_TOOLTIP_18	Øger både din fysiske og magiske angrebsværdi.
+DETAILS_TOOLTIP_19	Øger den skade du giver imod fjender på et magisk angreb.
+DETAILS_TOOLTIP_2	Modstand imod Halv Mennesker: Reducerer den skade du tager fra Halv Mennesker.
+DETAILS_TOOLTIP_20	Øger chancen for at lave et kritisk slag.
+DETAILS_TOOLTIP_21	Sandsynlighed for gennemborende træf: Øger chancen for at lave et gennemborende træf.
+DETAILS_TOOLTIP_22	Kritisk slag modstand: Reducerer skaden der påføres af et kritisk slag.
+DETAILS_TOOLTIP_23	Gennemborende træf modstand: Reducerer skaden der påføres af et gennemborende træf.
+DETAILS_TOOLTIP_24	Reducerer den skade du tager fra nogen monstre.
+DETAILS_TOOLTIP_25	Reducerer den skade du tager fra nogen monstre.
+DETAILS_TOOLTIP_26	Mørke modstand: Reducerer den skade du tager fra nogen monstre.
+DETAILS_TOOLTIP_27	Reducerer den skade du tager fra nogen monstre.
+DETAILS_TOOLTIP_28	Reducerer den skade du tager fra nogen monstre.
+DETAILS_TOOLTIP_29	Reducerer den skade du tager fra nogen monstre.
+DETAILS_TOOLTIP_3	Stærke imod Orker: Giver tungere skade imod orker.
+DETAILS_TOOLTIP_30	Øger den skade du forvolder igennem lynets kraft.
+DETAILS_TOOLTIP_31	Øger den skade du forvolder igennem isens kraft.
+DETAILS_TOOLTIP_32	Øger den skade du forvolder igennem mørkets kraft.
+DETAILS_TOOLTIP_33	Øger den skade du forvolder igennem ildens kraft.
+DETAILS_TOOLTIP_34	Øger den skade du forvolder igennem vindens kraft.
+DETAILS_TOOLTIP_35	Øger den skade du forvolder igennem jordens kraft.
+DETAILS_TOOLTIP_36	Stærke imod Krigere: Giver tungere skade imod krigere.
+DETAILS_TOOLTIP_37	Stærke imod Ninjaer: Giver tungere skade imod ninjaer.
+DETAILS_TOOLTIP_38	Stærke imod Suraer: Giver tungere skade imod suraer.
+DETAILS_TOOLTIP_39	Stærke imod Shamaner: Giver tungere skade imod shamaner.
+DETAILS_TOOLTIP_4	Stærke imod Udøde: Giver tungere skade imod udøde.
+DETAILS_TOOLTIP_40	Stærke imod Lycaner: Giver tungere skade imod lycaner.
+DETAILS_TOOLTIP_41	Forsvars chance imod kriger angreb: Reducerer den skade du tager fra krigere.
+DETAILS_TOOLTIP_42	Forsvars chance imod ninja angreb: Reducerer den skade du tager fra ninjaer.
+DETAILS_TOOLTIP_43	Forsvars chance imod sura angreb: Reducerer den skade du tager fra suraer.
+DETAILS_TOOLTIP_44	Forsvars chance imod shaman angreb: Reducerer den skade du tager fra shamaner.
+DETAILS_TOOLTIP_45	Forsvars chance imod lycan angreb: Reducerer den skade du tager fra lycaner.
+DETAILS_TOOLTIP_46	Reducerer skaden der uddeles med et sværd.
+DETAILS_TOOLTIP_47	Reducerer skaden der uddeles med et to-hånds våben.
+DETAILS_TOOLTIP_48	Reducerer skaden der uddeles med en dolk.
+DETAILS_TOOLTIP_49	Reducerer skaden der uddeles med en klo.
+DETAILS_TOOLTIP_5	Stærke imod Monstre: Giver tungere skade imod monstre.
+DETAILS_TOOLTIP_50	Reducerer skaden der uddeles med en klokke.
+DETAILS_TOOLTIP_51	Reducerer skaden der uddeles med en vifte.
+DETAILS_TOOLTIP_52	Reducerer skaden der uddeles med buer og pile.
+DETAILS_TOOLTIP_53	Øger chancen for at slå en modstander ud.
+DETAILS_TOOLTIP_54	Øger chancen for at sløve en modstander.
+DETAILS_TOOLTIP_55	Øger chancen for at forgifte en fjende.
+DETAILS_TOOLTIP_56	Reducerer skaden der uddeles med gift.
+DETAILS_TOOLTIP_57	Øger chancen for at lave et blødnings angreb.
+DETAILS_TOOLTIP_58	Modstand imod blødnings angreb: Reducerer skaden der uddeles med et blødnings angreb.
+DETAILS_TOOLTIP_59	Dræner din fjendes HP når du slår dem.
+DETAILS_TOOLTIP_6	Stærke imod Zodiac Monstre: Giver tungere skade imod Zodiac monstre.
+DETAILS_TOOLTIP_60	Dræner din fjendes MP når du slår dem.
+DETAILS_TOOLTIP_61	Øger gendannelsen af dine angrebspoint.
+DETAILS_TOOLTIP_62	Øger gendannelsen af dine fortryllelses point.
+DETAILS_TOOLTIP_63	Sandsynligheden for at blokere et nærkamps angreb: Øger chancen for at undgå et nærkamps angreb.
+DETAILS_TOOLTIP_64	Sandsynligheden for at undgå et pil angreb: Øger chancen for at undgå en pil eller varieret angreb fra en monster.
+DETAILS_TOOLTIP_65	Sandsynligheden for at reflektere nærkamps slag: En del af fjendens nærkamps skade bliver reflekteret tilbage på dem.
+DETAILS_TOOLTIP_66	HP gendannelse ved drab: Dine angrebspoint øges når du dræber en fjende.
+DETAILS_TOOLTIP_67	MP gendannelse ved drab: Dine fortryllelses point øges når du dræber en fjende.
+DETAILS_TOOLTIP_68	Sandsynligheden for at få dobbelt erfaring: Øger chancen for at få en EXP bonus når du besejrer din modstander.
+DETAILS_TOOLTIP_69	Sandsynlighed for at smide dobbelt Yang: Øger chancen for at modtage dobbelt så meget Yang.
+DETAILS_TOOLTIP_7	Stærke imod Dyr: Giver tungere skade imod vilde dyr.
+DETAILS_TOOLTIP_70	Sandsynlighed for at smide genstande: Øger chancen for at plyndre dobbelt så mange genstande.
+DETAILS_TOOLTIP_71	Øger din angrebsværdi.
+DETAILS_TOOLTIP_72	Øger din forsvarsværdi.
+DETAILS_TOOLTIP_73	Øger indsamlingen af erfaring.
+DETAILS_TOOLTIP_74	Genstands drop chance: Øger sandsynligheden for plyndring af genstande.
+DETAILS_TOOLTIP_75	Yang drop chance: Øger sandsynligheden for plyndring af mere Yang.
+DETAILS_TOOLTIP_76	Reducerer den skade du tager fra et magisk angreb.
+DETAILS_TOOLTIP_77	Reducerer fjendens magi modstand.
+DETAILS_TOOLTIP_8	Stærke imod Esoterikere: Giver tungere skade imod esoterikere.
+DETAILS_TOOLTIP_9	Stærke imod Djævle: Giver tungere skade imod djævle.
+DETAILS_TOOLTIP_ATTBONUS_BELL	Klokke forsvars brud: Reducerer din modstanders klokke forsvar.
+DETAILS_TOOLTIP_ATTBONUS_BOW	Pil forsvars brud: Reducerer din modstanders pil forsvar.
+DETAILS_TOOLTIP_ATTBONUS_CLAW	Klo forsvars brud: Reducerer din modstanders klo forsvar.
+DETAILS_TOOLTIP_ATTBONUS_DAGGER	Dolk forsvars brud: Reducerer din modstanders dolk forsvar.
+DETAILS_TOOLTIP_ATTBONUS_FAN	Vifte forsvars brud: Reducerer din modstanders vifte forsvar.
+DETAILS_TOOLTIP_ATTBONUS_SWORD	Sværd forsvars brud: Reducerer din modstanders sværd forsvar.
+DETAILS_TOOLTIP_ATTBONUS_TWOHAND	To-hånds forsvars brud: Reducerer din modstanders to-hånds forsvar.
+DETAILS_TOOLTIP_HIT_PCT	Øger chancen for at slå fjenden
+DETAILS_TOOLTIP_RESIST_MOUNT_FALL	Falds modstand: Reducerer din chance for at falde fra din ganger.

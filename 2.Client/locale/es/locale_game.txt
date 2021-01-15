@@ -1,0 +1,181 @@
+DETAILS_0	Fuerza c. Metins
+DETAILS_1	Fza. c. mediohumanos
+DETAILS_10	Fza. c. mon. desier.
+DETAILS_11	Fuerza c. insectos
+DETAILS_12	Valor de ataque
+DETAILS_13	Valor de defensa
+DETAILS_14	Daño medio
+DETAILS_15	Res. a daño medio
+DETAILS_16	Daño de habilidad
+DETAILS_17	Resist. daño de habilidad
+DETAILS_18	At. mág./cpo. a cpo.
+DETAILS_19	Ataque mágico
+DETAILS_2	Res. a mediohumanos
+DETAILS_20	Prob. golpe crítico
+DETAILS_21	Golpe perforador
+DETAILS_22	Res. a golpe crítico
+DETAILS_23	Res. a golpe perf.
+DETAILS_24	Res. a relámpago
+DETAILS_25	Resistencia a hielo
+DETAILS_26	Res. a oscuridad
+DETAILS_27	Resistencia a fuego
+DETAILS_28	Resistencia a viento
+DETAILS_29	Resistencia a tierra
+DETAILS_3	Fuerza contra orcos
+DETAILS_30	Poder del relámpago
+DETAILS_31	Poder del hielo
+DETAILS_32	Poder de oscuridad
+DETAILS_33	Poder del fuego
+DETAILS_34	Poder del viento
+DETAILS_35	Poder de la tierra
+DETAILS_36	Fza. c. Guerreros
+DETAILS_37	Fuerza contra Ninjas
+DETAILS_38	Fuerza contra Suras
+DETAILS_39	Fuerza c. Chamanes
+DETAILS_4	Fza. c. muertos viv.
+DETAILS_40	Fuerza c. Lícanos
+DETAILS_41	Defensa c. Guerreros
+DETAILS_42	Defensa c. Ninjas
+DETAILS_43	Defensa contra Suras
+DETAILS_44	Defensa c. Chamanes
+DETAILS_45	Defensa c. Lícanos
+DETAILS_46	Defensa c. espadas
+DETAILS_47	Defensa c. dos manos
+DETAILS_48	Defensa contra dagas
+DETAILS_49	Defensa c. garras
+DETAILS_5	Fuerza c. monstruos
+DETAILS_50	Defensa c. campanas
+DETAILS_51	Defensa c. abanicos
+DETAILS_52	Defensa c. flechas
+DETAILS_53	Probabilidad desmayo
+DETAILS_54	Probabilidad retardo
+DETAILS_55	Prob. envenenamiento
+DETAILS_56	Resistencia a veneno
+DETAILS_57	Ataque de sangrado
+DETAILS_58	Res. a at. sangrado
+DETAILS_59	Robo de vida
+DETAILS_6	Fza. c. mon. zodíaco
+DETAILS_60	Robo de SP
+DETAILS_61	Restauración de HP
+DETAILS_62	Restauración de SP
+DETAILS_63	Bloquear ataque
+DETAILS_64	Evasión de flechas
+DETAILS_65	Reflec. cpo. a cpo.
+DETAILS_66	Restau. HP al matar
+DETAILS_67	Restau. SP al matar
+DETAILS_68	EXP doble
+DETAILS_69	Yang doble
+DETAILS_7	Fuerza c. animales
+DETAILS_70	Probabilidad botín
+DETAILS_71	Valor de ataque
+DETAILS_72	Defensa
+DETAILS_73	EXP
+DETAILS_74	Probabilidad botín
+DETAILS_75	Yang doble
+DETAILS_76	Resistencia a magia
+DETAILS_77	Rompemagia
+DETAILS_8	Fuerza c. esotéricos
+DETAILS_9	Fuerza c. demonios
+DETAILS_ATTBONUS_BELL	Fractura de campana
+DETAILS_ATTBONUS_BOW	Fractura de flecha
+DETAILS_ATTBONUS_CLAW	Fractura de garra
+DETAILS_ATTBONUS_DAGGER	Fractura de daga
+DETAILS_ATTBONUS_FAN	Fractura de abanico
+DETAILS_ATTBONUS_SWORD	Fractura de espada
+DETAILS_ATTBONUS_TWOHAND	Fractura de arma a dos manos
+DETAILS_CATE_1	Daño/Defensa
+DETAILS_CATE_2	Boni. elementales
+DETAILS_CATE_3	Boni. de clase
+DETAILS_CATE_4	Boni. de arma
+DETAILS_CATE_5	Otras bonificaciones
+DETAILS_CATE_6	Boni. especiales
+DETAILS_HIT_PCT	Precisión
+DETAILS_RESIST_MOUNT_FALL	Resistencia contra caída
+DETAILS_TITLE	Detalles
+DETAILS_TOOLTIP_0	Fuerza contra Piedras Metin: causa más daño a Piedras Metin.
+DETAILS_TOOLTIP_1	Fuerza contra mediohumanos: provoca más daños a mediohumanos.
+DETAILS_TOOLTIP_10	Fuerte contra monstruos del desierto: causa más daño a monstruos del desierto.
+DETAILS_TOOLTIP_11	Fuerte contra insectos: causa más daño a insectos.
+DETAILS_TOOLTIP_12	Aumenta tu valor de ataque.
+DETAILS_TOOLTIP_13	Aumenta tu valor de defensa.
+DETAILS_TOOLTIP_14	Aumenta el daño medio que provocas en tus enemigos al atacar.
+DETAILS_TOOLTIP_15	Resistencia contra daño medio: reduce el daño que sufres con un ataque.
+DETAILS_TOOLTIP_16	Aumenta el daño que provoca una habilidad.
+DETAILS_TOOLTIP_17	Resistencia contra daño de habilidad: reduce el daño que te provoca una habilidad.
+DETAILS_TOOLTIP_18	Aumentan tanto el valor de ataque físico como el mágico.
+DETAILS_TOOLTIP_19	Aumenta el daño que provocas a los enemigos con un ataque mágico.
+DETAILS_TOOLTIP_2	Resistencia contra mediohumanos: reduce el daño que se sufre de mediohumanos.
+DETAILS_TOOLTIP_20	Aumenta la probabilidad de lograr un golpe crítico.
+DETAILS_TOOLTIP_21	Probabilidad de golpe penetrante: aumenta la probabilidad de provocar un golpe penetrante.
+DETAILS_TOOLTIP_22	Resistencia contra golpe crítico: reduce el daño que provoca un golpe crítico.
+DETAILS_TOOLTIP_23	Resistencia contra golpe penetrante: reduce el daño que provoca un golpe penetrante.
+DETAILS_TOOLTIP_24	Reduce el daño que se sufre de determinados monstruos.
+DETAILS_TOOLTIP_25	Reduce el daño que se sufre de determinados monstruos.
+DETAILS_TOOLTIP_26	Resistencia contra la oscuridad: reduce el daño que se sufre de determinados monstruos.
+DETAILS_TOOLTIP_27	Reduce el daño que se sufre de determinados monstruos.
+DETAILS_TOOLTIP_28	Reduce el daño que se sufre de determinados monstruos.
+DETAILS_TOOLTIP_29	Reduce el daño que se sufre de determinados monstruos.
+DETAILS_TOOLTIP_3	Fuerza contra orcos: causa más daño a orcos.
+DETAILS_TOOLTIP_30	Aumenta el daño que causas gracias al poder del relámpago.
+DETAILS_TOOLTIP_31	Aumenta el daño que causas gracias al poder del hielo.
+DETAILS_TOOLTIP_32	Aumenta el daño que causas gracias al poder de la oscuridad.
+DETAILS_TOOLTIP_33	Aumenta el daño que causas gracias al poder del fuego.
+DETAILS_TOOLTIP_34	Aumenta el daño que causas gracias al poder del viento.
+DETAILS_TOOLTIP_35	Aumenta el daño que causas gracias al poder de la tierra.
+DETAILS_TOOLTIP_36	Fuerza contra Guerreros: causa más daño a Guerreros.
+DETAILS_TOOLTIP_37	Fuerza contra Ninjas: causa más daño a Ninjas.
+DETAILS_TOOLTIP_38	Fuerza contra Suras: causa más daño a Suras.
+DETAILS_TOOLTIP_39	Fuerza contra Chamanes: causa más daño a Chamanes.
+DETAILS_TOOLTIP_4	Fuerza contra muertos vivientes: causa más daño a muertos vivientes.
+DETAILS_TOOLTIP_40	Fuerza contra Lícanos: causa más daño a Lícanos.
+DETAILS_TOOLTIP_41	Probabilidad de defensa contra ataques de Guerreros: reduce el daño que se sufre por parte de Guerreros.
+DETAILS_TOOLTIP_42	Probabilidad de defensa contra ataques de Ninjas: reduce el daño que se sufre por parte de Ninjas.
+DETAILS_TOOLTIP_43	Probabilidad de defensa contra ataques de Suras: reduce el daño que se sufre por parte de Suras.
+DETAILS_TOOLTIP_44	Probabilidad de defensa contra ataques de Chamanes: reduce el daño que se sufre por parte de Chamanes.
+DETAILS_TOOLTIP_45	Probabilidad de defensa contra ataques de Lícanos: reduce el daño que se sufre por parte de Lícanos.
+DETAILS_TOOLTIP_46	Reduce el daño que causa una espada.
+DETAILS_TOOLTIP_47	Reduce el daño que causa un arma a dos manos.
+DETAILS_TOOLTIP_48	Reduce el daño que causa una daga.
+DETAILS_TOOLTIP_49	Reduce el daño que causa una garra.
+DETAILS_TOOLTIP_5	Fuerza contra monstruos: causa más daño a monstruos.
+DETAILS_TOOLTIP_50	Reduce el daño que provoca una campana.
+DETAILS_TOOLTIP_51	Reduce el daño que provoca un abanico.
+DETAILS_TOOLTIP_52	Reduce el daño que provocan un arco y flechas.
+DETAILS_TOOLTIP_53	Aumenta la probabilidad de hacer desmayar a un enemigo.
+DETAILS_TOOLTIP_54	Aumenta la probabilidad de ralentizar a un enemigo.
+DETAILS_TOOLTIP_55	Aumenta la probabilidad de envenenar a un enemigo.
+DETAILS_TOOLTIP_56	Reduce el daño que provoca el veneno.
+DETAILS_TOOLTIP_57	Aumenta la probabilidad de lograr un ataque de sangrado.
+DETAILS_TOOLTIP_58	Resistencia a ataque de sangrado: reduce el daño que provoca un ataque de sangrado.
+DETAILS_TOOLTIP_59	Absorbe HP de tu enemigo cuando lo golpeas.
+DETAILS_TOOLTIP_6	Fuerte contra monstruos del zodíaco: causa más daño a monstruos del zodíaco.
+DETAILS_TOOLTIP_60	Absorbe SP de tu enemigo cuando lo golpeas.
+DETAILS_TOOLTIP_61	Acelera la regeneración de tus puntos de vida.
+DETAILS_TOOLTIP_62	Acelera la regeneración de tus puntos de maná.
+DETAILS_TOOLTIP_63	Probabilidad de bloquear un ataque cuerpo a cuerpo: aumenta la probabilidad de evadir un ataque cuerpo a cuerpo.
+DETAILS_TOOLTIP_64	Probabilidad de evitar flechas: aumenta la probabilidad de evadir el ataque con flechas o a distancia de un monstruo.
+DETAILS_TOOLTIP_65	Probabilidad de reflectar golpes cuerpo a cuerpo: se devuelve una parte del daño cuerpo a cuerpo al enemigo.
+DETAILS_TOOLTIP_66	Restauración de HP al matar: cuando matas a un enemigo, aumentan tus puntos de vida.
+DETAILS_TOOLTIP_67	Restauración de SP al matar: cuando matas a un enemigo, aumentan tus puntos de maná.
+DETAILS_TOOLTIP_68	Probabilidad de obtener experiencia doble: aumenta la probabilidad de conseguir una bonificación de EXP cuando derrotas a tu enemigo.
+DETAILS_TOOLTIP_69	Probabilidad de obtener el doble de Yang: aumenta tu probabilidad de recibir la cantidad doble de maná.
+DETAILS_TOOLTIP_7	Fuerza contra animales: causa más daño a animales salvajes.
+DETAILS_TOOLTIP_70	Probabilidad de obtener objetos: aumenta la probabilidad de conseguir el doble de objetos.
+DETAILS_TOOLTIP_71	Aumenta tu valor de ataque.
+DETAILS_TOOLTIP_72	Aumenta tu valor de defensa.
+DETAILS_TOOLTIP_73	Incrementa la ganancia de experiencia.
+DETAILS_TOOLTIP_74	Probabilidad de botín de objetos: aumenta la probabilidad de conseguir objetos.
+DETAILS_TOOLTIP_75	Probabilidad de botín de Yang: aumenta tu probabilidad de conseguir más Yang.
+DETAILS_TOOLTIP_76	Reduce el daño que sufres por un ataque mágico.
+DETAILS_TOOLTIP_77	Reduce la resistencia a magia de tu enemigo.
+DETAILS_TOOLTIP_8	Fuerza contra esotéricos: causa más daño a esotéricos.
+DETAILS_TOOLTIP_9	Fuerza contra demonios: causa más daño a demonios.
+DETAILS_TOOLTIP_ATTBONUS_BELL	Fractura de defensa de campana: reduce la defensa de campana de tu enemigo.
+DETAILS_TOOLTIP_ATTBONUS_BOW	Fractura de defensa de flecha: reduce la defensa de flecha de tu enemigo.
+DETAILS_TOOLTIP_ATTBONUS_CLAW	Fractura de defensa de garra: reduce la defensa de garra de tu enemigo.
+DETAILS_TOOLTIP_ATTBONUS_DAGGER	Fractura de defensa de daga: reduce la defensa de daga de tu enemigo.
+DETAILS_TOOLTIP_ATTBONUS_FAN	Fractura de defensa de abanico: reduce la defensa de abanico de tu enemigo.
+DETAILS_TOOLTIP_ATTBONUS_SWORD	Fractura de defensa de espada: reduce la defensa de espada de tu enemigo.
+DETAILS_TOOLTIP_ATTBONUS_TWOHAND	Fractura de defensa de arma a dos manos: reduce la defensa de arma a dos manos de tu enemigo.
+DETAILS_TOOLTIP_HIT_PCT	Aumenta la probabilidad de acertar al golpear a un enemigo.
+DETAILS_TOOLTIP_RESIST_MOUNT_FALL	Resistencia contra caída: reduce la probabilidad de que caigas de tu montura.

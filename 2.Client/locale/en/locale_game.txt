@@ -1,0 +1,181 @@
+DETAILS_0	Strong vs Metin
+DETAILS_1	Str. vs Half Humans
+DETAILS_10	Str. vs Desert Mon.
+DETAILS_11	Str. vs Insects
+DETAILS_12	Attack Value
+DETAILS_13	Defence Value
+DETAILS_14	Average Damage
+DETAILS_15	Average Dmg. Resist.
+DETAILS_16	Skill Damage
+DETAILS_17	Skill Damage Resistance
+DETAILS_18	Magic/Melee Attack
+DETAILS_19	Magic Attack
+DETAILS_2	Res. to Half Humans
+DETAILS_20	Critical Hit Chance
+DETAILS_21	Piercing Hit
+DETAILS_22	Critical Hit Resist.
+DETAILS_23	Piercing Hit Resist.
+DETAILS_24	Lightning Resistance
+DETAILS_25	Ice Resistance
+DETAILS_26	Darkness Resistance
+DETAILS_27	Fire Resistance
+DETAILS_28	Wind Resistance
+DETAILS_29	Earth Resistance
+DETAILS_3	Strong vs Orcs
+DETAILS_30	Power of Lightning
+DETAILS_31	Power of Ice
+DETAILS_32	Power of Darkness
+DETAILS_33	Power of Fire
+DETAILS_34	Power of the Wind
+DETAILS_35	Power of Earth
+DETAILS_36	Strong vs Warriors
+DETAILS_37	Strong vs Ninjas
+DETAILS_38	Strong vs Suras
+DETAILS_39	Strong vs Shamans
+DETAILS_4	Strong vs Undead
+DETAILS_40	Strong vs Lycans
+DETAILS_41	Defence vs Warriors
+DETAILS_42	Defence vs Ninjas
+DETAILS_43	Defence vs Suras
+DETAILS_44	Defence vs Shamans
+DETAILS_45	Defence vs Lycans
+DETAILS_46	Sword Defence
+DETAILS_47	Two-handed Defence
+DETAILS_48	Dagger Defence
+DETAILS_49	Claw Defence
+DETAILS_5	Strong vs Monsters
+DETAILS_50	Bell Defence
+DETAILS_51	Fan Defence
+DETAILS_52	Arrow Defence
+DETAILS_53	Faint Chance
+DETAILS_54	Slowing Chance
+DETAILS_55	Poison Chance
+DETAILS_56	Poison Resistance
+DETAILS_57	Bleeding Attack
+DETAILS_58	Bleeding Attack Res.
+DETAILS_59	HP Steal
+DETAILS_6	Str. vs Zodiac Mon.
+DETAILS_60	SP Steal
+DETAILS_61	HP Recovery
+DETAILS_62	SP Recovery
+DETAILS_63	Block Attack
+DETAILS_64	Evade Arrow Attack
+DETAILS_65	Reflect Melee Attack
+DETAILS_66	HP Recovery on Kill
+DETAILS_67	SP Recovery on Kill
+DETAILS_68	Double EXP
+DETAILS_69	Double Yang
+DETAILS_7	Strong vs Animals
+DETAILS_70	Drop Chance
+DETAILS_71	Attack Value
+DETAILS_72	Defence Value
+DETAILS_73	EXP
+DETAILS_74	Drop Chance
+DETAILS_75	Double Yang
+DETAILS_76	Magic Resistance
+DETAILS_77	Anti-Magic
+DETAILS_8	Strong vs Esoterics
+DETAILS_9	Strong vs Devils
+DETAILS_ATTBONUS_BELL	Bell break
+DETAILS_ATTBONUS_BOW	Arrow break
+DETAILS_ATTBONUS_CLAW	Claw break
+DETAILS_ATTBONUS_DAGGER	Dagger break
+DETAILS_ATTBONUS_FAN	Fan break
+DETAILS_ATTBONUS_SWORD	Sword break
+DETAILS_ATTBONUS_TWOHAND	Two-handed break
+DETAILS_CATE_1	Damage/Defence
+DETAILS_CATE_2	Elemental bonus
+DETAILS_CATE_3	Class bonus
+DETAILS_CATE_4	Weapon bonus
+DETAILS_CATE_5	Other bonus
+DETAILS_CATE_6	Special bonus
+DETAILS_HIT_PCT	Precision
+DETAILS_RESIST_MOUNT_FALL	Fall resistance
+DETAILS_TITLE	Details
+DETAILS_TOOLTIP_0	Strong against Metin stones: Deals heavier damage to Metin stones.
+DETAILS_TOOLTIP_1	Strong against Half Humans: Deals heavier damage to Half Humans.
+DETAILS_TOOLTIP_10	Strong against Desert Monsters: Deals heavier damage to desert monsters.
+DETAILS_TOOLTIP_11	Strong against Insects: Deals heavier damage to insects.
+DETAILS_TOOLTIP_12	Increases your attack value.
+DETAILS_TOOLTIP_13	Increases your defence value.
+DETAILS_TOOLTIP_14	Increases the average damage you deal to enemies on an attack.
+DETAILS_TOOLTIP_15	Resistance to average damage: reduces the damage you suffer on an attack.
+DETAILS_TOOLTIP_16	Increases the damage done by a skill.
+DETAILS_TOOLTIP_17	Resistance against skill damage: Reduces the damage done to you by a skill.
+DETAILS_TOOLTIP_18	Increases both your physical and magic attack value.
+DETAILS_TOOLTIP_19	Increases the damage you deal to enemies on a magical attack.
+DETAILS_TOOLTIP_2	Resistance to Half Humans: Reduces the damage you suffer from Half Humans.
+DETAILS_TOOLTIP_20	Increases the chance of landing a critical hit.
+DETAILS_TOOLTIP_21	Piercing hit probability: Increases the chance of landing a piercing hit.
+DETAILS_TOOLTIP_22	Critical hit resistance: Reduces the damage inflicted by a critical hit.
+DETAILS_TOOLTIP_23	Piercing hit resistance: Reduces the damage inflicted by a piercing hit.
+DETAILS_TOOLTIP_24	Reduces the damage you suffer from certain monsters.
+DETAILS_TOOLTIP_25	Reduces the damage you suffer from certain monsters.
+DETAILS_TOOLTIP_26	Darkness resistance: Reduces the damage you suffer from certain monsters.
+DETAILS_TOOLTIP_27	Reduces the damage you suffer from certain monsters.
+DETAILS_TOOLTIP_28	Reduces the damage you suffer from certain monsters.
+DETAILS_TOOLTIP_29	Reduces the damage you suffer from certain monsters.
+DETAILS_TOOLTIP_3	Strong against Orcs: Deals heavier damage to orcs.
+DETAILS_TOOLTIP_30	Increases the damage you inflict through the power of lightning.
+DETAILS_TOOLTIP_31	Increases the damage you inflict through the power of ice.
+DETAILS_TOOLTIP_32	Increases the damage you inflict through the power of darkness.
+DETAILS_TOOLTIP_33	Increases the damage you inflict through the power of fire.
+DETAILS_TOOLTIP_34	Increases the damage you inflict through the power of the wind.
+DETAILS_TOOLTIP_35	Increases the damage you inflict through the power of earth.
+DETAILS_TOOLTIP_36	Strong against Warriors: Deals heavier damage to warriors.
+DETAILS_TOOLTIP_37	Strong against Ninjas: Deals heavier damage to ninjas.
+DETAILS_TOOLTIP_38	Strong against Suras: Deals heavier damage to suras.
+DETAILS_TOOLTIP_39	Strong against Shamans: Deals heavier damage to shamans.
+DETAILS_TOOLTIP_4	Strong against Undead: Deals heavier damage to undead.
+DETAILS_TOOLTIP_40	Strong against Lycans: Deals heavier damage to lycans.
+DETAILS_TOOLTIP_41	Defence chance against warrior attacks: Reduces the damage you suffer from warriors.
+DETAILS_TOOLTIP_42	Defence chance against ninja attacks: Reduces the damage you suffer from ninjas.
+DETAILS_TOOLTIP_43	Defence chance against sura attacks: Reduces the damage you suffer from suras.
+DETAILS_TOOLTIP_44	Defence chance against shaman attacks: Reduces the damage you suffer from shamans.
+DETAILS_TOOLTIP_45	Defence chance against lycan attacks: Reduces the damage you suffer from lycans.
+DETAILS_TOOLTIP_46	Reduces the damage dealt by a sword.
+DETAILS_TOOLTIP_47	Reduces the damage dealt by a two-handed weapon.
+DETAILS_TOOLTIP_48	Reduces the damage dealt by a dagger.
+DETAILS_TOOLTIP_49	Reduces the damage dealt by a claw.
+DETAILS_TOOLTIP_5	Strong against Monsters: Deals heavier damage to monsters.
+DETAILS_TOOLTIP_50	Reduces the damage dealt by a bell.
+DETAILS_TOOLTIP_51	Reduces the damage dealt by a fan.
+DETAILS_TOOLTIP_52	Reduces the damage dealt by bows and arrows.
+DETAILS_TOOLTIP_53	Increases the chance of knocking out an opponent.
+DETAILS_TOOLTIP_54	Increases the chance of slowing an opponent.
+DETAILS_TOOLTIP_55	Increases the chance of poisoning an enemy.
+DETAILS_TOOLTIP_56	Reduces the damage dealt by poison.
+DETAILS_TOOLTIP_57	Increases the chance of carrying out a bleeding attack.
+DETAILS_TOOLTIP_58	Resist against bleeding attack: Reduces the damage dealt by a bleeding attack.
+DETAILS_TOOLTIP_59	Drains your enemy's HP when you hit them.
+DETAILS_TOOLTIP_6	Strong against Zodiac Monsters: Deals heavier damage to Zodiac monsters.
+DETAILS_TOOLTIP_60	Drains your enemy's SP when you hit them.
+DETAILS_TOOLTIP_61	Increases the recovery of your hit points.
+DETAILS_TOOLTIP_62	Increases the recovery of your spell points.
+DETAILS_TOOLTIP_63	Chance to block a melee attack: Increases the chance of evading a melee attack.
+DETAILS_TOOLTIP_64	Chance of avoiding an arrow attack: Increases the chance of evading an arrow or ranged attack by a monster.
+DETAILS_TOOLTIP_65	Chance to reflect melee hits: Part of the enemy's melee damage is reflected back at them.
+DETAILS_TOOLTIP_66	HP recovery when killing: Your hit points increase when you kill an enemy.
+DETAILS_TOOLTIP_67	SP recovery when killing: Your spell points increase when you kill an enemy.
+DETAILS_TOOLTIP_68	Chance to gain double experience: Increases the chance of an EXP bonus when you defeat your opponent.
+DETAILS_TOOLTIP_69	Chance to drop double Yang: Increases the chance of receiving twice the amount of Yang.
+DETAILS_TOOLTIP_7	Strong against Animals: Deals heavier damage to wild animals.
+DETAILS_TOOLTIP_70	Chance to drop items: Increases the chance of looting twice the number of items.
+DETAILS_TOOLTIP_71	Increases your attack value.
+DETAILS_TOOLTIP_72	Increases your defence value.
+DETAILS_TOOLTIP_73	Increases the gathering of experience.
+DETAILS_TOOLTIP_74	Item drop chance: Increases the probability of looting items.
+DETAILS_TOOLTIP_75	Yang drop chance: Increases the probability of looting more Yang.
+DETAILS_TOOLTIP_76	Reduces the damage you suffer on a magical attack.
+DETAILS_TOOLTIP_77	Reduces your enemy's magic resistance.
+DETAILS_TOOLTIP_8	Strong against Esoterics: Deals heavier damage to esoterics.
+DETAILS_TOOLTIP_9	Strong against Devils: Deals heavier damage to devils.
+DETAILS_TOOLTIP_ATTBONUS_BELL	Bell defence break: Reduces your opponent's bell defence.
+DETAILS_TOOLTIP_ATTBONUS_BOW	Arrow defence break: Reduces your opponent's arrow defence.
+DETAILS_TOOLTIP_ATTBONUS_CLAW	Claw defence break: Reduces your opponent's claw defence.
+DETAILS_TOOLTIP_ATTBONUS_DAGGER	Dagger defence break: Reduces your opponent's dagger defence.
+DETAILS_TOOLTIP_ATTBONUS_FAN	Fan defence break: Reduces your opponent's fan defence.
+DETAILS_TOOLTIP_ATTBONUS_SWORD	Sword defence break: Reduces your opponent's sword defence.
+DETAILS_TOOLTIP_ATTBONUS_TWOHAND	Two-handed defence break: Reduces your opponent's two-handed defence.
+DETAILS_TOOLTIP_HIT_PCT	Increases the chance of hitting the enemy
+DETAILS_TOOLTIP_RESIST_MOUNT_FALL	Fall resistance: Reduces your chance of falling from your mount.

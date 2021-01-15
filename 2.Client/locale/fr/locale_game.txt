@@ -1,0 +1,181 @@
+DETAILS_0	Fort contre les pierres Metin
+DETAILS_1	Force c. demi-hum.
+DETAILS_10	Force c. m. désert
+DETAILS_11	Force c. insectes
+DETAILS_12	Valeur d'attaque
+DETAILS_13	Valeur de défense
+DETAILS_14	Dégâts moyens
+DETAILS_15	Rés. dégâts moyens
+DETAILS_16	Dégâts de compétence
+DETAILS_17	Résist. dégâts compétence
+DETAILS_18	Attaque de mêlée/mag
+DETAILS_19	Attaque magique
+DETAILS_2	Rés. c. demi-humains
+DETAILS_20	Chance de coup crit.
+DETAILS_21	Coup perçant
+DETAILS_22	Rés. coup critique
+DETAILS_23	Rés. coup perçant
+DETAILS_24	Résistance foudre
+DETAILS_25	Résistance glace
+DETAILS_26	Rés. obscurité
+DETAILS_27	Résistance feu
+DETAILS_28	Résistance vent
+DETAILS_29	Résistance terre
+DETAILS_3	Force c. orcs
+DETAILS_30	Pouvoir de la foudre
+DETAILS_31	Pouvoir de la glace
+DETAILS_32	Pouvoir des ténèbres
+DETAILS_33	Pouvoir du feu
+DETAILS_34	Pouvoir du vent
+DETAILS_35	Pouvoir de la terre
+DETAILS_36	Force c. Guerriers
+DETAILS_37	Force c. Ninjas
+DETAILS_38	Force c. Suras
+DETAILS_39	Force c. Chamanes
+DETAILS_4	Force c. m-vivants
+DETAILS_40	Force c. Lycans
+DETAILS_41	Déf. c. Guerriers
+DETAILS_42	Déf. c. Ninjas
+DETAILS_43	Déf. c. Suras
+DETAILS_44	Déf. c. Chamanes
+DETAILS_45	Déf. c. Lycans
+DETAILS_46	Défense c. épée
+DETAILS_47	Déf. c. deux mains
+DETAILS_48	Défense c. dague
+DETAILS_49	Défense c. griffes
+DETAILS_5	Force c. monstres
+DETAILS_50	Défense c. gong
+DETAILS_51	Défense c. éventail
+DETAILS_52	Défense c. flèches
+DETAILS_53	Chance d'étourdir
+DETAILS_54	Chance de ralentir
+DETAILS_55	Chance d'empoisonner
+DETAILS_56	Résistance poison
+DETAILS_57	Attaque saignante
+DETAILS_58	Rés. att. saignante
+DETAILS_59	Vol de vie
+DETAILS_6	Force c. m. zodiaque
+DETAILS_60	Vol de PM
+DETAILS_61	Restauration de PV
+DETAILS_62	Restauration de PM
+DETAILS_63	Bloquer une attaque
+DETAILS_64	Éviter des flèches
+DETAILS_65	R. d'att. de mêlée
+DETAILS_66	Réc. de PV en tuant
+DETAILS_67	Réc. de PM en tuant
+DETAILS_68	Double d'EXP
+DETAILS_69	Double de Yangs
+DETAILS_7	Force c. animaux
+DETAILS_70	Chance de butin
+DETAILS_71	Valeur d'attaque
+DETAILS_72	Défense
+DETAILS_73	EXP
+DETAILS_74	Chance de butin
+DETAILS_75	Double de Yangs
+DETAILS_76	Résistance magique
+DETAILS_77	Anti-magie
+DETAILS_8	Force c. mystiques
+DETAILS_9	Force c. diable
+DETAILS_ATTBONUS_BELL	Rupture de gong
+DETAILS_ATTBONUS_BOW	Rupture de flèche
+DETAILS_ATTBONUS_CLAW	Rupture de griffe
+DETAILS_ATTBONUS_DAGGER	Rupture de dague
+DETAILS_ATTBONUS_FAN	Rupture d'éventail
+DETAILS_ATTBONUS_SWORD	Rupture d'épée
+DETAILS_ATTBONUS_TWOHAND	Rupture d'épée à deux mains
+DETAILS_CATE_1	Dégâts/Défense
+DETAILS_CATE_2	Bonus élémentaires
+DETAILS_CATE_3	Bonus de classe
+DETAILS_CATE_4	Bonus d'arme
+DETAILS_CATE_5	Autres bonus
+DETAILS_CATE_6	Bonus spéciaux
+DETAILS_HIT_PCT	Précision
+DETAILS_RESIST_MOUNT_FALL	Résistance aux chutes
+DETAILS_TITLE	Détails
+DETAILS_TOOLTIP_0	Fort contre les pierres Metin : infligez plus de dégâts aux pierres Metin.
+DETAILS_TOOLTIP_1	Fort contre les demi-humains : les demi-humains subissent des dégâts plus importants.
+DETAILS_TOOLTIP_10	Fort contre les monstres du désert : les monstres du désert subissent des dégâts plus importants.
+DETAILS_TOOLTIP_11	Fort contre les insectes : les insectes subissent des dégâts plus importants.
+DETAILS_TOOLTIP_12	Votre valeur d'attaque augmente.
+DETAILS_TOOLTIP_13	Votre valeur de défense augmente.
+DETAILS_TOOLTIP_14	Les dégâts moyens infligés aux ennemis à chaque attaque augmentent.
+DETAILS_TOOLTIP_15	Résistance contre les dégâts moyens : les dégâts subis pour chaque attaque sont diminués.
+DETAILS_TOOLTIP_16	Les dégâts infligés par une compétence augmentent.
+DETAILS_TOOLTIP_17	Résistance contre les dégâts de compétence : les dégâts que vous subissez à cause d'une compétence sont réduits.
+DETAILS_TOOLTIP_18	Les valeurs d'attaque physique et magique augmentent.
+DETAILS_TOOLTIP_19	Les dégâts infligés aux ennemis à chaque attaque magique augmentent.
+DETAILS_TOOLTIP_2	Résistance contre les demi-humains : les dégâts infligés par les demi-humains sont réduits.
+DETAILS_TOOLTIP_20	La chance d'effectuer un coup critique augmente.
+DETAILS_TOOLTIP_21	Chances de coup perçant : les chances d'infliger un coup perçant augmentent.
+DETAILS_TOOLTIP_22	Résistance contre les coups critiques : les dégâts infligés par un coup critique sont réduits.
+DETAILS_TOOLTIP_23	Résistance contre les coups perçants : les dégâts infligés par un coup perçant sont réduits.
+DETAILS_TOOLTIP_24	Les dégâts infligés par certains monstres sont réduits.
+DETAILS_TOOLTIP_25	Les dégâts infligés par certains monstres sont réduits.
+DETAILS_TOOLTIP_26	Résistance contre l'obscurité : les dégâts infligés par certains monstres sont réduits.
+DETAILS_TOOLTIP_27	Les dégâts infligés par certains monstres sont réduits.
+DETAILS_TOOLTIP_28	Les dégâts infligés par certains monstres sont réduits.
+DETAILS_TOOLTIP_29	Les dégâts infligés par certains monstres sont réduits.
+DETAILS_TOOLTIP_3	Fort contre les orcs : les orcs subissent des dégâts plus importants.
+DETAILS_TOOLTIP_30	Les dégâts que vous infligez grâce au pouvoir de la foudre augmentent.
+DETAILS_TOOLTIP_31	Les dégâts que vous infligez grâce au pouvoir de la glace augmentent.
+DETAILS_TOOLTIP_32	Les dégâts que vous infligez grâce au pouvoir des ténèbres augmentent.
+DETAILS_TOOLTIP_33	Les dégâts que vous infligez grâce au pouvoir du feu augmentent.
+DETAILS_TOOLTIP_34	Les dégâts que vous infligez grâce au pouvoir du vent augmentent.
+DETAILS_TOOLTIP_35	Les dégâts que vous infligez grâce au pouvoir de la terre augmentent.
+DETAILS_TOOLTIP_36	Fort contre les Guerriers : les Guerriers subissent des dégâts plus importants.
+DETAILS_TOOLTIP_37	Fort contre les Ninjas : les Ninjas subissent des dégâts plus importants.
+DETAILS_TOOLTIP_38	Fort contre les Suras : les Sura subissent des dégâts plus importants.
+DETAILS_TOOLTIP_39	Fort contre les Chamanes : les Chamanes subissent des dégâts plus importants.
+DETAILS_TOOLTIP_4	Fort contre les morts-vivants : les morts-vivants subissent des dégâts plus importants.
+DETAILS_TOOLTIP_40	Fort contre les Lycans : les Lycans subissent des dégâts plus importants.
+DETAILS_TOOLTIP_41	Chance de parer une attaque Guerrier : les dégâts infligés par des Guerriers sont réduits.
+DETAILS_TOOLTIP_42	Chance de parer une attaque Ninja : les dégâts infligés par des Ninjas sont réduits.
+DETAILS_TOOLTIP_43	Chance de parer une attaque Sura : les dégâts infligés par des Suras sont réduits.
+DETAILS_TOOLTIP_44	Chance de parer une attaque Chamane : les dégâts infligés par des Chamanes sont réduits.
+DETAILS_TOOLTIP_45	Chance de parer une attaque Lycan : les dégâts infligés par des Lycans sont réduits.
+DETAILS_TOOLTIP_46	Les dégâts infligés par une épée sont réduits.
+DETAILS_TOOLTIP_47	Les dégâts infligés par une arme à deux mains sont réduits.
+DETAILS_TOOLTIP_48	Les dégâts infligés par une dague sont réduits.
+DETAILS_TOOLTIP_49	Les dégâts infligés par une griffe sont réduits.
+DETAILS_TOOLTIP_5	Fort contre les monstres : les monstres subissent des dégâts plus importants.
+DETAILS_TOOLTIP_50	Les dégâts infligés par un gong sont réduits.
+DETAILS_TOOLTIP_51	Les dégâts infligés par un éventail sont réduits.
+DETAILS_TOOLTIP_52	Les dégâts infligés par un arc et des flèches sont réduits.
+DETAILS_TOOLTIP_53	La chance d'étourdir un ennemi augmente.
+DETAILS_TOOLTIP_54	La chance de ralentir un ennemi augmente.
+DETAILS_TOOLTIP_55	La chance d'empoisonner un ennemi augmente.
+DETAILS_TOOLTIP_56	Les dégâts infligés par le poison sont réduits.
+DETAILS_TOOLTIP_57	La chance d'effectuer une attaque saignante augmente.
+DETAILS_TOOLTIP_58	Résistance contre les attaques saignantes : les dégâts infligés par une attaque saignante sont réduits.
+DETAILS_TOOLTIP_59	Des PV sont retirés à votre ennemi quand vous le touchez.
+DETAILS_TOOLTIP_6	Fort contre les monstres du zodiaque : les monstres du zodiaque subissent des dégâts plus importants.
+DETAILS_TOOLTIP_60	Des PM sont retirés à votre ennemi quand vous le touchez.
+DETAILS_TOOLTIP_61	La régénération de vos points de vie est accélérée.
+DETAILS_TOOLTIP_62	La régénération de vos points de mana est accélérée.
+DETAILS_TOOLTIP_63	Chance de bloquer un coup au corps à corps : les chances d'esquiver une attaque au corps à corps augmentent.
+DETAILS_TOOLTIP_64	Chance d'éviter les flèches : les chances d'esquiver une flèche ou une attaque à distance d'un monstre augmentent.
+DETAILS_TOOLTIP_65	Chance de renvoyer une attaque au corps à corps : une partie des dégâts au corps à corps est renvoyée à l'ennemi.
+DETAILS_TOOLTIP_66	Récupération de PV en tuant : si vous tuez un ennemi, vos points de vie augmentent.
+DETAILS_TOOLTIP_67	Récupération de PM en tuant : si vous tuez un ennemi, vos points de mana augmentent.
+DETAILS_TOOLTIP_68	Chance d'obtenir le double de points d'expérience : les chances d'obtenir un bonus d'EXP en éliminant un ennemi augmentent.
+DETAILS_TOOLTIP_69	Chance d'abandonner le double de Yangs : vos chances d'obtenir un double montant de Yangs augmentent.
+DETAILS_TOOLTIP_7	Fort contre les animaux : les animaux sauvages subissent des dégâts plus importants.
+DETAILS_TOOLTIP_70	Chance d'abandonner des objets : vos chances d'obtenir le double d'objets augmentent.
+DETAILS_TOOLTIP_71	Votre valeur d'attaque augmente.
+DETAILS_TOOLTIP_72	Votre valeur de défense augmente.
+DETAILS_TOOLTIP_73	Les gains d'expérience sont augmentés.
+DETAILS_TOOLTIP_74	Chance d'obtenir des objets : vos chances d'obtenir des objets en butin augmentent.
+DETAILS_TOOLTIP_75	Chance d'obtenir des Yangs : vos chances d'obtenir des Yangs en butin augmentent.
+DETAILS_TOOLTIP_76	Les dégâts que vous subissez à chaque attaque magique sont réduits.
+DETAILS_TOOLTIP_77	La résistance magique de votre ennemi est réduite.
+DETAILS_TOOLTIP_8	Fort contre les mystiques : les mystiques subissent des dégâts plus importants.
+DETAILS_TOOLTIP_9	Fort contre le mal : les démons subissent des dégâts plus importants.
+DETAILS_TOOLTIP_ATTBONUS_BELL	Rupture de la défense contre le gong : la défense contre le gong de l'adversaire diminue.
+DETAILS_TOOLTIP_ATTBONUS_BOW	Rupture de la défense contre les flèches : la défense contre les flèches de l'adversaire diminue.
+DETAILS_TOOLTIP_ATTBONUS_CLAW	Rupture de la défense contre les griffes : la défense contre les griffes de l'adversaire diminue.
+DETAILS_TOOLTIP_ATTBONUS_DAGGER	Rupture de la défense contre la dague : la défense contre la dague de l'adversaire diminue.
+DETAILS_TOOLTIP_ATTBONUS_FAN	Rupture de la défense contre l'éventail : la défense contre l'éventail de l'adversaire diminue.
+DETAILS_TOOLTIP_ATTBONUS_SWORD	Rupture de la défense contre l'épée : la défense contre l'épée de l'adversaire diminue.
+DETAILS_TOOLTIP_ATTBONUS_TWOHAND	Rupture de la défense contre l'épée à deux mains : la défense contre l'épée à deux mains de l'adversaire diminue.
+DETAILS_TOOLTIP_HIT_PCT	La chance de toucher un ennemi augmente.
+DETAILS_TOOLTIP_RESIST_MOUNT_FALL	Résistance à la chute : la probabilité de chuter de votre monture diminue.

@@ -1,0 +1,181 @@
+DETAILS_0	Forte contra Metin
+DETAILS_1	Frt. vs Semi-Humanos
+DETAILS_10	Frt. vs Mon. Deserto
+DETAILS_11	Frt. vs Insectos
+DETAILS_12	Valor de Ataque
+DETAILS_13	Valor de Defesa
+DETAILS_14	Dano Médio
+DETAILS_15	Res. a Dano Média
+DETAILS_16	Dano de Habilidade
+DETAILS_17	Resist. Dano de Habilidade
+DETAILS_18	Ataque Mágico/CaC
+DETAILS_19	Ataque Mágico
+DETAILS_2	Res. a Semi-Humanos
+DETAILS_20	Prob. Golpe Crítico
+DETAILS_21	Golpe Perfurante
+DETAILS_22	Res. a Golpe Crítico
+DETAILS_23	Res. a Golpe Perf.
+DETAILS_24	Res. a Relâmpagos
+DETAILS_25	Res. a Gelo
+DETAILS_26	Res. a Trevas
+DETAILS_27	Res. a Fogo
+DETAILS_28	Res. a Vento
+DETAILS_29	Res. a Terra
+DETAILS_3	Frt. vs Orcs
+DETAILS_30	Poder dos Raios
+DETAILS_31	Poder do Gelo
+DETAILS_32	Poder das Trevas
+DETAILS_33	Poder do Fogo
+DETAILS_34	Poder do Vento
+DETAILS_35	Poder da Terra
+DETAILS_36	Frt. vs Guerreiros
+DETAILS_37	Frt. vs Ninjas
+DETAILS_38	Frt. vs Suras
+DETAILS_39	Frt. vs Xamãs
+DETAILS_4	Frt. vs Mortos-Vivos
+DETAILS_40	Frt. vs Lycans
+DETAILS_41	Def. vs Guerreiros
+DETAILS_42	Def. vs Ninjas
+DETAILS_43	Def. vs Suras
+DETAILS_44	Def. vs Xamãs
+DETAILS_45	Def. vs Lycans
+DETAILS_46	Def. vs Espadas
+DETAILS_47	Def. vs Duas-Mãos
+DETAILS_48	Def. vs Punhais
+DETAILS_49	Def. vs Garras
+DETAILS_5	Frt. vs Monstros
+DETAILS_50	Def. vs Campainhas
+DETAILS_51	Def. vs Leques
+DETAILS_52	Def. vs Flechas
+DETAILS_53	Prob. Atordoamento
+DETAILS_54	Prob. Abrandamento
+DETAILS_55	Prob. Envenenamento
+DETAILS_56	Res. a Veneno
+DETAILS_57	Atq. de Sangramento
+DETAILS_58	Res. Atq. Sangr.
+DETAILS_59	Roubo de VD
+DETAILS_6	Frt. vs Mon. Zodíaco
+DETAILS_60	Roubo de MN
+DETAILS_61	Recuperação de VD
+DETAILS_62	Recuperação de MN
+DETAILS_63	Bloqueio de Ataque
+DETAILS_64	Evasão Atq. Flecha
+DETAILS_65	Reflectir Ataque CaC
+DETAILS_66	Recup. VD com Morte
+DETAILS_67	Recup. MN com Morte
+DETAILS_68	EXP a Dobrar
+DETAILS_69	Yang a Dobrar
+DETAILS_7	Frt. vs Animais
+DETAILS_70	Prob. Queda Itens
+DETAILS_71	Valor de Ataque
+DETAILS_72	Valor de Defesa
+DETAILS_73	EXP
+DETAILS_74	Prob. Queda Itens
+DETAILS_75	Yang a Dobrar
+DETAILS_76	Resistência Mágica
+DETAILS_77	Anti-Magia
+DETAILS_8	Frt. vs Esotéricos
+DETAILS_9	Frt. vs Demónios
+DETAILS_ATTBONUS_BELL	Ruptura de Campainha
+DETAILS_ATTBONUS_BOW	Ruptura de Flecha
+DETAILS_ATTBONUS_CLAW	Ruptura de Garra
+DETAILS_ATTBONUS_DAGGER	Ruptura de Punhais
+DETAILS_ATTBONUS_FAN	Ruptura de Leque
+DETAILS_ATTBONUS_SWORD	Ruptura de Espada
+DETAILS_ATTBONUS_TWOHAND	Ruptura de Duas Mãos
+DETAILS_CATE_1	Dano/Defesa
+DETAILS_CATE_2	Bónus de Elementos
+DETAILS_CATE_3	Bónus de Classe
+DETAILS_CATE_4	Bónus de Arma
+DETAILS_CATE_5	Outros Bónus
+DETAILS_CATE_6	Bónus Especial
+DETAILS_HIT_PCT	Precisão
+DETAILS_RESIST_MOUNT_FALL	Resistência a Queda
+DETAILS_TITLE	Detalhes
+DETAILS_TOOLTIP_0	Forte contra Pedras Metin: inflige mais dano a Pedras Metin.
+DETAILS_TOOLTIP_1	Forte contra Semi-Humanos: inflige mais dano a Semi-Humanos.
+DETAILS_TOOLTIP_10	Forte contra Monstros do Deserto: inflige mais dano a monstros do deserto.
+DETAILS_TOOLTIP_11	Forte contra Insectos: inflige mais dano a insectos.
+DETAILS_TOOLTIP_12	Aumenta o teu Valor de Ataque.
+DETAILS_TOOLTIP_13	Aumenta o teu Valor de Defesa.
+DETAILS_TOOLTIP_14	Aumenta o dano médio que infliges a inimigos com um ataque.
+DETAILS_TOOLTIP_15	Resistência a Dano Médio: reduz o dano que sofres com um ataque.
+DETAILS_TOOLTIP_16	Aumenta o dano infligido por uma habilidade.
+DETAILS_TOOLTIP_17	Resistência a Dano de Habilidades: reduz o dano que te é infligido por uma habilidade.
+DETAILS_TOOLTIP_18	Aumenta tanto o teu Valor de Ataque Físico como o Mágico.
+DETAILS_TOOLTIP_19	Aumenta o dano que infliges a inimigos com um ataque mágico.
+DETAILS_TOOLTIP_2	Resistência a Semi-Humanos: reduz o dano que sofres de Semi-Humanos.
+DETAILS_TOOLTIP_20	Aumenta a probabilidade de desferires um Golpe Crítico.
+DETAILS_TOOLTIP_21	Probabilidade de Golpe Perfurante: aumenta a probabilidade de desferires um Golpe Perfurante.
+DETAILS_TOOLTIP_22	Resistência a Golpes Críticos: reduz o dano infligido por um Golpe Crítico.
+DETAILS_TOOLTIP_23	Resistência a Golpes Perfurantes: reduz o dano infligido por um Golpe Perfurante.
+DETAILS_TOOLTIP_24	Reduz o dano que sofres de certos monstros.
+DETAILS_TOOLTIP_25	Reduz o dano que sofres de certos monstros.
+DETAILS_TOOLTIP_26	Resistência a Trevas: reduz o dano que sofres de certos monstros.
+DETAILS_TOOLTIP_27	Reduz o dano que sofres de certos monstros.
+DETAILS_TOOLTIP_28	Reduz o dano que sofres de certos monstros.
+DETAILS_TOOLTIP_29	Reduz o dano que sofres de certos monstros.
+DETAILS_TOOLTIP_3	Forte contra Orcs: inflige mais dano a Orcs.
+DETAILS_TOOLTIP_30	Aumenta o dano que infliges com o poder dos raios.
+DETAILS_TOOLTIP_31	Aumenta o dano que infliges com o poder do gelo.
+DETAILS_TOOLTIP_32	Aumenta o dano que infliges com o poder das trevas.
+DETAILS_TOOLTIP_33	Aumenta o dano que infliges com o poder do fogo.
+DETAILS_TOOLTIP_34	Aumenta o dano que infliges com o poder do vento.
+DETAILS_TOOLTIP_35	Aumenta o dano que infliges com o poder da terra.
+DETAILS_TOOLTIP_36	Forte contra Guerreiros: inflige mais dano a Guerreiros.
+DETAILS_TOOLTIP_37	Forte contra Ninjas: inflige mais dano a Ninjas.
+DETAILS_TOOLTIP_38	Forte contra Suras: inflige mais dano a Suras.
+DETAILS_TOOLTIP_39	Forte contra Xamãs: inflige mais dano a Xamãs.
+DETAILS_TOOLTIP_4	Forte contra Mortos-Vivos: inflige mais dano a Mortos-Vivos.
+DETAILS_TOOLTIP_40	Forte contra Lycans: inflige mais dano a Lycans.
+DETAILS_TOOLTIP_41	Defesa contra Ataques de Guerreiros: reduz o dano que sofres de Guerreiros.
+DETAILS_TOOLTIP_42	Defesa contra Ataques de Ninjas: reduz o dano que sofres de Ninjas.
+DETAILS_TOOLTIP_43	Defesa contra Ataques de Suras: reduz o dano que sofres de Suras.
+DETAILS_TOOLTIP_44	Defesa contra Ataques de Xamãs: reduz o dano que sofres de Xamãs.
+DETAILS_TOOLTIP_45	Defesa contra Ataques de Lycans: reduz o dano que sofres de Lycans.
+DETAILS_TOOLTIP_46	Reduz o dano infligido por uma espada.
+DETAILS_TOOLTIP_47	Reduz o dano infligido por uma arma de duas mãos.
+DETAILS_TOOLTIP_48	Reduz o dano infligido por uma adaga.
+DETAILS_TOOLTIP_49	Reduz o dano infligido por uma garra.
+DETAILS_TOOLTIP_5	Forte contra Monstros: inflige mais dano a Monstros.
+DETAILS_TOOLTIP_50	Reduz o dano infligido por uma campainha.
+DETAILS_TOOLTIP_51	Reduz o dano infligido por um leque.
+DETAILS_TOOLTIP_52	Reduz o dano infligido por arcos e flechas.
+DETAILS_TOOLTIP_53	Aumenta a probabilidade de atordoar um adversário.
+DETAILS_TOOLTIP_54	Aumenta a probabilidade de abrandar um adversário.
+DETAILS_TOOLTIP_55	Aumenta a probabilidade de envenenar um adversário.
+DETAILS_TOOLTIP_56	Reduz o dano infligido por veneno.
+DETAILS_TOOLTIP_57	Aumenta a probabilidade de desferir um ataque de sangramento.
+DETAILS_TOOLTIP_58	Resistência contra Ataque de Sangramento: reduz o dano infligido por um Ataque de Sangramento.
+DETAILS_TOOLTIP_59	Drena a VD do teu inimigo quando o atinges.
+DETAILS_TOOLTIP_6	Forte contra Monstros do Zodíaco: inflige mais dano a monstros do Zodíaco.
+DETAILS_TOOLTIP_60	Drena a MN do teu inimigo quando o atinges.
+DETAILS_TOOLTIP_61	Aumenta a recuperação dos teus pontos de vida.
+DETAILS_TOOLTIP_62	Aumenta a recuperação dos teus pontos de magia.
+DETAILS_TOOLTIP_63	Probabilidade de bloquear um ataque corpo-a-corpo: aumenta a probabilidade de evasão a um ataque corpo-a-corpo.
+DETAILS_TOOLTIP_64	Probabilidade de evitar um ataque de flecha: aumenta a probabilidade de evadir um ataque de flecha ou de longo alcance de um monstro.
+DETAILS_TOOLTIP_65	Probabilidade de reflectir ataques corpo-a-corpo: parte do dano corpo-a-corpo do inimigo é reflectido de volta contra ele.
+DETAILS_TOOLTIP_66	Recuperação de VD ao Matar: os teus pontos de vida aumentam quando matas um inimigo.
+DETAILS_TOOLTIP_67	Recuperação de MN ao Matar: os teus pontos de magia aumentam quando matas um inimigo.
+DETAILS_TOOLTIP_68	Probabilidade de receber experiência a dobrar: aumenta a probabilidade de um bónus de EXP quando derrotas um inimigo.
+DETAILS_TOOLTIP_69	Probabilidade de receber Yang a dobrar: aumenta a probabilidade de receber uma quantidade de Yang a dobrar.
+DETAILS_TOOLTIP_7	Forte contra Animais: inflige mais dano a animais selvagens.
+DETAILS_TOOLTIP_70	Probabilidade de Queda de Itens: aumenta a probabilidade de pilhar o dobro da quantidade de itens.
+DETAILS_TOOLTIP_71	Aumenta o teu Valor de Ataque.
+DETAILS_TOOLTIP_72	Aumenta o teu Valor de Defesa.
+DETAILS_TOOLTIP_73	Aumenta a obtenção de experiência.
+DETAILS_TOOLTIP_74	Probabilidade de queda de itens: aumenta a probabilidade de pilhares itens.
+DETAILS_TOOLTIP_75	Probabilidade de queda de Yang: aumenta a probabilidade de pilhares mais Yang.
+DETAILS_TOOLTIP_76	Reduz o dano que sofres com um ataque mágico.
+DETAILS_TOOLTIP_77	Reduz a Resistência Mágica do teu inimigo.
+DETAILS_TOOLTIP_8	Forte contra Esotéricos: inflige mais dano a Esotéricos.
+DETAILS_TOOLTIP_9	Forte contra Demónios: inflige mais dano a Demónios.
+DETAILS_TOOLTIP_ATTBONUS_BELL	Ruptura de Defesa contra Campainhas: reduz a Defesa contra Campainhas do teu adversário.
+DETAILS_TOOLTIP_ATTBONUS_BOW	Ruptura de Defesa contra Flechas: reduz a Defesa contra Flechas do teu adversário.
+DETAILS_TOOLTIP_ATTBONUS_CLAW	Ruptura de Defesa contra Garras: reduz a Defesa contra Garras do teu adversário.
+DETAILS_TOOLTIP_ATTBONUS_DAGGER	Ruptura de Defesa contra Punhais: reduz a Defesa contra Punhais do teu adversário.
+DETAILS_TOOLTIP_ATTBONUS_FAN	Ruptura de Defesa contra Leques: reduz a Defesa contra Leques do teu adversário.
+DETAILS_TOOLTIP_ATTBONUS_SWORD	Ruptura de Defesa contra Espadas: reduz a Defesa contra Espadas do teu adversário.
+DETAILS_TOOLTIP_ATTBONUS_TWOHAND	Ruptura de Defesa contra Duas Mãos: reduz a Defesa contra Duas Mãos do teu adversário.
+DETAILS_TOOLTIP_HIT_PCT	Aumenta a probabilidade de atingir o inimigo
+DETAILS_TOOLTIP_RESIST_MOUNT_FALL	Resistência a Queda: reduz a probabilidade de caíres da tua montada.

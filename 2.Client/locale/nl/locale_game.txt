@@ -1,0 +1,181 @@
+DETAILS_0	Sterk tegen Metin
+DETAILS_1	Kr. tegen Halfmensen
+DETAILS_10	Kr. tegen Woest. Mon
+DETAILS_11	Kr. tegen Insecten
+DETAILS_12	Aanvalswaarde
+DETAILS_13	Verdedigingswaarde
+DETAILS_14	Gemiddelde Schade
+DETAILS_15	Gem. Schade Weerst.
+DETAILS_16	Vaardigheden Schade
+DETAILS_17	Vaardig. Schade Weerstand
+DETAILS_18	Magische/Fys. Aanval
+DETAILS_19	Magische Aanval
+DETAILS_2	Weerst. tg. Halfmens
+DETAILS_20	Kritieke Slag Kans
+DETAILS_21	Perforerende Slag
+DETAILS_22	Kritieke Slag Weerst
+DETAILS_23	Perf. Slag Weerst.
+DETAILS_24	Bliksem Weerstand
+DETAILS_25	IJs Weerstand
+DETAILS_26	Duisternis Weerstand
+DETAILS_27	Vuur Weerstand
+DETAILS_28	Wind Weerstand
+DETAILS_29	Aarde Weerstand
+DETAILS_3	Sterk tegen Orks
+DETAILS_30	Kracht van Bliksem
+DETAILS_31	Kracht van IJs
+DETAILS_32	Kracht van Duistern.
+DETAILS_33	Kracht van Vuur
+DETAILS_34	Kracht van de Wind
+DETAILS_35	Kracht van Aarde
+DETAILS_36	Sterk tegen Krijgers
+DETAILS_37	Sterk tegen Ninja's
+DETAILS_38	Sterk tegen Sura's
+DETAILS_39	Sterk tegen Sjamanen
+DETAILS_4	Sterk tegen Ondoden
+DETAILS_40	Sterk tegen Lycanen
+DETAILS_41	Verd. tegen Krijgers
+DETAILS_42	Verd. tegen Ninja's
+DETAILS_43	Verd. tegen Sura's
+DETAILS_44	Verd. tegen Sjamanen
+DETAILS_45	Verd. tegen Lycanen
+DETAILS_46	Zwaard Verdediging
+DETAILS_47	Twee-handig Verd.
+DETAILS_48	Dolk Verdediging
+DETAILS_49	Klauw Verdediging
+DETAILS_5	Sterk tegen Monsters
+DETAILS_50	Bel Verdediging
+DETAILS_51	Waaier Verdediging
+DETAILS_52	Pijl Verdediging
+DETAILS_53	Flauwvalkans
+DETAILS_54	Langzaam maken Kans
+DETAILS_55	Vergiftigingskans
+DETAILS_56	Gif Weerstand
+DETAILS_57	Bloedingsaanval
+DETAILS_58	Bloedingsaanval Wst.
+DETAILS_59	LP Stelen
+DETAILS_6	Kr. tegen Zodiac Mon
+DETAILS_60	TP Stelen
+DETAILS_61	LP Herstel
+DETAILS_62	TP Herstel
+DETAILS_63	Blokkeer Aanval
+DETAILS_64	Ontwijk Pijlaanval
+DETAILS_65	Weerkaats Fys. Aanv.
+DETAILS_66	LP Herstel bij Doden
+DETAILS_67	TP Herstel bij Doden
+DETAILS_68	Dubbel ERV
+DETAILS_69	Dubbel Yang
+DETAILS_7	Sterk tegen Dieren
+DETAILS_70	Drop Kans
+DETAILS_71	Aanvalswaarde
+DETAILS_72	Verdedigingswaarde
+DETAILS_73	ERV
+DETAILS_74	Drop Kans
+DETAILS_75	Dubbel Yang
+DETAILS_76	Magie Weerstand
+DETAILS_77	Anti-Magie
+DETAILS_8	Sterk tegen Esoteri.
+DETAILS_9	Sterk tegen Duivels
+DETAILS_ATTBONUS_BELL	Belbreuk
+DETAILS_ATTBONUS_BOW	Pijlbreuk
+DETAILS_ATTBONUS_CLAW	Klauwbreuk
+DETAILS_ATTBONUS_DAGGER	Dolkbreuk
+DETAILS_ATTBONUS_FAN	Waaierbreuk
+DETAILS_ATTBONUS_SWORD	Zwaardbreuk
+DETAILS_ATTBONUS_TWOHAND	Tweehandsbreuk
+DETAILS_CATE_1	Schade/Verdediging
+DETAILS_CATE_2	Elementale bonus
+DETAILS_CATE_3	Klasse bonus
+DETAILS_CATE_4	Wapenbonus
+DETAILS_CATE_5	Overige bonus
+DETAILS_CATE_6	Speciale bonus
+DETAILS_HIT_PCT	Precisie
+DETAILS_RESIST_MOUNT_FALL	Valweerstand
+DETAILS_TITLE	Details
+DETAILS_TOOLTIP_0	Sterk tegen Metin Stenen: Brengt zwaardere schade toe aan Metin Stenen.
+DETAILS_TOOLTIP_1	Sterk tegen Halfmensen: Brengt zwaardere schade toe aan Halfmensen.
+DETAILS_TOOLTIP_10	Sterk tegen Woestijn Monsters: Brengt zwaardere schade toe aan woestijnmonsters.
+DETAILS_TOOLTIP_11	Sterk tegen Insecten: Brengt zwaardere schade toe aan insecten.
+DETAILS_TOOLTIP_12	Verhoogt je aanvalswaarde
+DETAILS_TOOLTIP_13	Verhoogt je verdedigingswaarde
+DETAILS_TOOLTIP_14	Verhoogt de gemiddelde schade die je aan vijanden toebrengt bij een aanval.
+DETAILS_TOOLTIP_15	Weerstand tegen gemiddelde schade: vermindert de schade die je oploopt bij een aanval.
+DETAILS_TOOLTIP_16	Verhoogt de schade toegebracht door een vaardigheid.
+DETAILS_TOOLTIP_17	Weerstand tegen vaardigheden schade: Vermindert de schade die je toegebracht wordt door een vaardigheid.
+DETAILS_TOOLTIP_18	Verhoogt zowel je fysieke als magische aanvalswaarde.
+DETAILS_TOOLTIP_19	Verhoogt de schade die je aan vijanden toebrengt bij een magische aanval.
+DETAILS_TOOLTIP_2	Weerstand tegen Halfmensen: Vermindert de schade die je oploopt van Halfmensen.
+DETAILS_TOOLTIP_20	Verhoogt de kans op het uitdelen van een kritieke slag.
+DETAILS_TOOLTIP_21	Perforerende slag kans: Verhoogt de kans op het uitdelen van een perforerende slag.
+DETAILS_TOOLTIP_22	Kritische slag weerstand: Vermindert de schade toegebracht door een kritieke slag.
+DETAILS_TOOLTIP_23	Perforerende slag weerstand: Vermindert de schade toegebracht door een perforerende slag.
+DETAILS_TOOLTIP_24	Vermindert de schade die je oploopt van bepaalde monsters.
+DETAILS_TOOLTIP_25	Vermindert de schade die je oploopt van bepaalde monsters.
+DETAILS_TOOLTIP_26	Duisternis weerstand: Vermindert de schade die je oploopt van bepaalde monsters.
+DETAILS_TOOLTIP_27	Vermindert de schade die je oploopt van bepaalde monsters.
+DETAILS_TOOLTIP_28	Vermindert de schade die je oploopt van bepaalde monsters.
+DETAILS_TOOLTIP_29	Vermindert de schade die je oploopt van bepaalde monsters.
+DETAILS_TOOLTIP_3	Sterk tegen Orks: Brengt zwaardere schade toe aan orks.
+DETAILS_TOOLTIP_30	Verhoogt de schade toe je toebrengt door de kracht van bliksem.
+DETAILS_TOOLTIP_31	Verhoogt de schade toe je toebrengt door de kracht van ijs.
+DETAILS_TOOLTIP_32	Verhoogt de schade toe je toebrengt door de kracht van duisternis.
+DETAILS_TOOLTIP_33	Verhoogt de schade toe je toebrengt door de kracht van vuur.
+DETAILS_TOOLTIP_34	Verhoogt de schade toe je toebrengt door de kracht van de wind.
+DETAILS_TOOLTIP_35	Verhoogt de schade toe je toebrengt door de kracht van aarde.
+DETAILS_TOOLTIP_36	Sterk tegen Krijgers: Brengt zwaardere schade toe aan krijgers.
+DETAILS_TOOLTIP_37	Sterk tegen Ninja's: Brengt zwaardere schade toe aan ninja's.
+DETAILS_TOOLTIP_38	Sterk tegen Sura's: Brengt zwaardere schade toe aan sura's.
+DETAILS_TOOLTIP_39	Sterk tegen Sjamanen: Brengt zwaardere schade toe aan sjamanen.
+DETAILS_TOOLTIP_4	Sterk tegen Sterk tegen Ondoden: Brengt zwaardere schade toe aan ondoden.
+DETAILS_TOOLTIP_40	Sterk tegen Lycanen: Brengt zwaardere schade toe aan lycanen.
+DETAILS_TOOLTIP_41	Verdedigingskans tegen aanvallen van krijgers: Vermindert de schade die je oploopt van krijgers.
+DETAILS_TOOLTIP_42	Verdedigingskans tegen aanvallen van ninja's: Vermindert de schade die je oploopt van ninja's.
+DETAILS_TOOLTIP_43	Verdedigingskans tegen aanvallen van sura's: Vermindert de schade die je oploopt van sura's.
+DETAILS_TOOLTIP_44	Verdedigingskans tegen aanvallen van sjamanen: Vermindert de schade die je oploopt van sjamanen.
+DETAILS_TOOLTIP_45	Verdedigingskans tegen aanvallen van lycanen: Vermindert de schade die je oploopt van lycanen.
+DETAILS_TOOLTIP_46	Vermindert de schade toegebracht door een zwaard.
+DETAILS_TOOLTIP_47	Vermindert de schade toegebracht door een twee-handig wapen.
+DETAILS_TOOLTIP_48	Vermindert de schade toegebracht door een dolk.
+DETAILS_TOOLTIP_49	Vermindert de schade toegebracht door een klauw.
+DETAILS_TOOLTIP_5	Sterk tegen Monsters: Brengt zwaardere schade toe aan monsters.
+DETAILS_TOOLTIP_50	Vermindert de schade toegebracht door een bel.
+DETAILS_TOOLTIP_51	Vermindert de schade toegebracht door een waaier.
+DETAILS_TOOLTIP_52	Vermindert de schade toegebracht door pijl en boog.
+DETAILS_TOOLTIP_53	Verhoogt de kans om een tegenstander te laten flauw vallen.
+DETAILS_TOOLTIP_54	Verhoogt de kans om een tegenstander te vertragen.
+DETAILS_TOOLTIP_55	Verhoogt de kans om een tegenstander te vergiftigen.
+DETAILS_TOOLTIP_56	Vermindert de schade toegebracht door gif.
+DETAILS_TOOLTIP_57	Verhoogt de kans om een bloedingsaanval uit te voeren.
+DETAILS_TOOLTIP_58	Weerstand tegen bloedingsaanvallen: Vermindert de schade toegebracht door een bloedingsaanval.
+DETAILS_TOOLTIP_59	Steelt LP van je vijanden als je ze raakt.
+DETAILS_TOOLTIP_6	Sterk tegen Zodiac Monsters: Brengt zwaardere schade toe aan Zodiac-monsters.
+DETAILS_TOOLTIP_60	Steelt TP van je vijanden als je ze raakt.
+DETAILS_TOOLTIP_61	Verhoogt het herstel van je levenspunten.
+DETAILS_TOOLTIP_62	Verhoogt het herstel van je spreukpunten.
+DETAILS_TOOLTIP_63	Kans om een fysieke aanval te blokkeren: Verhoogt de kans op het ontwijken van een fysieke aanval.
+DETAILS_TOOLTIP_64	Kans om een pijlaanval te ontwijken: Verhoogt de kans op het ontwijken van pijl- of afstandsaanval door een monster.
+DETAILS_TOOLTIP_65	Kans om fysieke aanvallen te weerkaatsen: Een deel van de fysieke aanval van de vijand wordt weerkaatst naar hen.
+DETAILS_TOOLTIP_66	HP herstel bij doden: Je levenspunten stijgen wanneer je een vijand doodt.
+DETAILS_TOOLTIP_67	TP herstel bij doden: Je spreukpunten stijgen wanneer je een vijand doodt.
+DETAILS_TOOLTIP_68	Kans om dubbele ervaring te krijgen: Verhoogt de kans op een ERV-bonus als je een tegenstander verslaat.
+DETAILS_TOOLTIP_69	Kans op dubbele Yang: Verhoogt de kans op het ontvangen van twee keer zoveel Yang.
+DETAILS_TOOLTIP_7	Sterk tegen dieren: Brengt zwaardere schade toe aan dieren.
+DETAILS_TOOLTIP_70	Kans op het droppen van items: Verhoogt de kans op het buitmaken van twee keer zoveel items.
+DETAILS_TOOLTIP_71	Verhoogt je aanvalswaarde
+DETAILS_TOOLTIP_72	Verhoogt je verdedigingswaarde
+DETAILS_TOOLTIP_73	Verhoogt het verzamelen van ervaring.
+DETAILS_TOOLTIP_74	Item drop-kans: Verhoogt de kans op het buitmaken van items.
+DETAILS_TOOLTIP_75	Yang drop-kans: Verhoogt de kans op het buitmaken van meer Yang.
+DETAILS_TOOLTIP_76	Vermindert de schade die je oploopt bij een magische aanval.
+DETAILS_TOOLTIP_77	Vermindert de magieweerstand van je vijand.
+DETAILS_TOOLTIP_8	Sterk tegen Esoteristen: Brengt zwaardere schade toe aan esoteristen.
+DETAILS_TOOLTIP_9	Sterk tegen Duivels: Brengt zwaardere schade toe aan duivels.
+DETAILS_TOOLTIP_ATTBONUS_BELL	Belverdedigingsbreuk: Vermindert de belverdediging van je tegenstander.
+DETAILS_TOOLTIP_ATTBONUS_BOW	Pijlverdedigingsbreuk: Vermindert de pijlverdediging van je tegenstander.
+DETAILS_TOOLTIP_ATTBONUS_CLAW	Klauwverdedigingsbreuk: Vermindert de klauwverdediging van je tegenstander.
+DETAILS_TOOLTIP_ATTBONUS_DAGGER	Dolkverdedigingsbreuk: Vermindert de dolkverdediging van je tegenstander.
+DETAILS_TOOLTIP_ATTBONUS_FAN	Waaierverdedigingsbreuk: Vermindert de waaierverdediging van je tegenstander.
+DETAILS_TOOLTIP_ATTBONUS_SWORD	Zwaardverdedigingsbreuk: Vermindert de zwaardverdediging van je tegenstander.
+DETAILS_TOOLTIP_ATTBONUS_TWOHAND	Tweehandsverdedigingsbreuk: Vermindert de tweehandsverdediging van je tegenstander.
+DETAILS_TOOLTIP_HIT_PCT	Verhoogt de kans om een vijand te raken
+DETAILS_TOOLTIP_RESIST_MOUNT_FALL	Valweerstand: Vermindert de kans om van je rijdier af te vallen.

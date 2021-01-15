@@ -1,0 +1,181 @@
+DETAILS_0	Tare vs Metin
+DETAILS_1	Tare vs Jumãtate-Om
+DETAILS_10	Tare vs Mon. Deºert
+DETAILS_11	Tare vs Insecte
+DETAILS_12	Valoarea Atacului
+DETAILS_13	Valoarea Apãrãrii
+DETAILS_14	Pagubã Medie
+DETAILS_15	Rezist. Pagubã Medie
+DETAILS_16	Pagubã Abilitate
+DETAILS_17	Rezistent Pagubã Abilitate
+DETAILS_18	Atac Fizic/Magic
+DETAILS_19	Atac Magic
+DETAILS_2	Rezist la Jumãt.-Om
+DETAILS_20	ªansã Lovit. Criticã
+DETAILS_21	Loviturã Pãtrunzãt.
+DETAILS_22	Rezist Lovit. Crit.
+DETAILS_23	Rezist Lov. Pãtrunz.
+DETAILS_24	Rezist. la Fulger
+DETAILS_25	Rezist. la Gheaþã
+DETAILS_26	Rezist. la Întuneric
+DETAILS_27	Rezist. la Foc
+DETAILS_28	Rezist. la Vânt
+DETAILS_29	Rezist. la Pãmânt
+DETAILS_3	Tare vs Orci
+DETAILS_30	Puterea Fulgerului
+DETAILS_31	Puterea Gheþii
+DETAILS_32	Puterea Întunecatã
+DETAILS_33	Puterea Focului
+DETAILS_34	Puterea Vântului
+DETAILS_35	Puterea Pãmântului
+DETAILS_36	Tare vs Rãzboinic
+DETAILS_37	Tare vs Ninja
+DETAILS_38	Tare vs Sura
+DETAILS_39	Tare vs ªaman
+DETAILS_4	Tare vs Vampir
+DETAILS_40	Tare vs Lycan
+DETAILS_41	Apãrare vs Rãzboinic
+DETAILS_42	Apãrare vs Ninja
+DETAILS_43	Apãrare vs Sura
+DETAILS_44	Apãrare vs ªaman
+DETAILS_45	Apãrare vs Lycan
+DETAILS_46	Apãrare Sabie
+DETAILS_47	Apãrare Douã Mâini
+DETAILS_48	Apãrare Pumnal
+DETAILS_49	Apãrare Ghearã
+DETAILS_5	Tare vs Monstru
+DETAILS_50	Apãrare Clopot
+DETAILS_51	Apãrare Evantai
+DETAILS_52	Apãrare Sãgeatã
+DETAILS_53	ªansã de Confuzie
+DETAILS_54	ªansã de Încetinire
+DETAILS_55	ªansã de Otrãvire
+DETAILS_56	Rezistenþã la Otravã
+DETAILS_57	Atac Sângeros
+DETAILS_58	Rez. Atac Sângeros
+DETAILS_59	Furã PV
+DETAILS_6	Tare vs Monst Zodiac
+DETAILS_60	Furã PM
+DETAILS_61	Recupereazã PV
+DETAILS_62	Recupereazã PM
+DETAILS_63	Blocheazã Atac
+DETAILS_64	Evitã Atac Sãgeþi
+DETAILS_65	Reflectã Atac Fizic
+DETAILS_66	Recup. PV la Ucidere
+DETAILS_67	Recup. PM la Ucidere
+DETAILS_68	Dublu EXP
+DETAILS_69	Dublu Yang
+DETAILS_7	Tare vs Animale
+DETAILS_70	ªansã Drop
+DETAILS_71	Valoarea Atacului
+DETAILS_72	Valoarea Apãrãrii
+DETAILS_73	EXP
+DETAILS_74	ªansã Drop
+DETAILS_75	Dublu Yang
+DETAILS_76	Rezistenþã la Magie
+DETAILS_77	Anti-Magie
+DETAILS_8	Tare vs Esoterici
+DETAILS_9	Tare vs Demon
+DETAILS_ATTBONUS_BELL	Vulnerabil Clopot
+DETAILS_ATTBONUS_BOW	Vulnerabil Sãgeatã
+DETAILS_ATTBONUS_CLAW	Vulnerabil Ghearã
+DETAILS_ATTBONUS_DAGGER	Vulnerabil Pumnal
+DETAILS_ATTBONUS_FAN	Vulnerabil Evantai
+DETAILS_ATTBONUS_SWORD	Vulnerabil Sabie
+DETAILS_ATTBONUS_TWOHAND	Vulnerabil Douã Mâini
+DETAILS_CATE_1	Daune/Apãrare
+DETAILS_CATE_2	Bonus element
+DETAILS_CATE_3	Bonus clasã
+DETAILS_CATE_4	Bonus armã
+DETAILS_CATE_5	Alte bonusuri
+DETAILS_CATE_6	Bonus special
+DETAILS_HIT_PCT	Precizie
+DETAILS_RESIST_MOUNT_FALL	Rezistenþã la alunecare
+DETAILS_TITLE	Detalii
+DETAILS_TOOLTIP_0	Tare vs pietre Metin: Daune mai mari împotriva pietrelor Metin.
+DETAILS_TOOLTIP_1	Tare vs Semi-Oameni: Daune mai mari împotriva Semi-Oameni.
+DETAILS_TOOLTIP_10	Tare împotriva Monºtrilor de Deºert: provoacã daune mai mari monºtrilor de deºert.
+DETAILS_TOOLTIP_11	Tare împotriva Insectelor: provoacã daune mai mari împotriva insectelor.
+DETAILS_TOOLTIP_12	Mãreºte valoarea atacului.
+DETAILS_TOOLTIP_13	Mãreºte valoarea apãrãrii.
+DETAILS_TOOLTIP_14	Mãreºte paguba medie executatã pe inamici în atac.
+DETAILS_TOOLTIP_15	Rezistenþã vs pagubã medie: reduce daunele primite în atac.
+DETAILS_TOOLTIP_16	Mãreºte daunele executate de o abilitate.
+DETAILS_TOOLTIP_17	Rezistenþã vs pagubã abilitate. Reduce daunele primite de la o abilitate.
+DETAILS_TOOLTIP_18	Mãreºte valoarea atacului fizic ºi magic.
+DETAILS_TOOLTIP_19	Mãreºte daunele atacului magic executat pe inamici în atac.
+DETAILS_TOOLTIP_2	Rezistenþã vs Semi-Oameni: Reduce daunele primite de la Semi-Oameni.
+DETAILS_TOOLTIP_20	Creºte ºansa unei lovituri critice.
+DETAILS_TOOLTIP_21	Probabilitate loviturã pãtrunzãtoare: Creºte ºansa de a executa o loviturã pãtrunzãtoare.
+DETAILS_TOOLTIP_22	Rezistenþã vs loviturã criticã: Reduce daunele fãcute de o loviturã criticã.
+DETAILS_TOOLTIP_23	Rezistenþã vs loviturã pãtrunzãtoare: Reduce daunele fãcute de o loviturã pãtrunzãtoare.
+DETAILS_TOOLTIP_24	Reduce daunele primite de la anumiþi monºtri.
+DETAILS_TOOLTIP_25	Reduce daunele primite de la anumiþi monºtri.
+DETAILS_TOOLTIP_26	Rezistenþã la întuneric: Reduce daunele primite de la anumiþi monºtri.
+DETAILS_TOOLTIP_27	Reduce daunele primite de la anumiþi monºtri.
+DETAILS_TOOLTIP_28	Reduce daunele primite de la anumiþi monºtri.
+DETAILS_TOOLTIP_29	Reduce daunele primite de la anumiþi monºtri.
+DETAILS_TOOLTIP_3	Tare vs Orci: Daune mai mari împotriva orcilor.
+DETAILS_TOOLTIP_30	Creºte daunele fãcute cu puterea fulgerului.
+DETAILS_TOOLTIP_31	Creºte daunele fãcute cu puterea gheþii.
+DETAILS_TOOLTIP_32	Creºte daunele fãcute cu puterea întunecatã.
+DETAILS_TOOLTIP_33	Creºte daunele fãcute cu puterea focului.
+DETAILS_TOOLTIP_34	Creºte daunele fãcute cu puterea vântului.
+DETAILS_TOOLTIP_35	Creºte daunele fãcute cu puterea pãmântului.
+DETAILS_TOOLTIP_36	Tare vs Rãzboinici: Daune mai mari împotriva rãzboinicilor.
+DETAILS_TOOLTIP_37	Tare vs Ninja: Daune mai mari împotriva ninja.
+DETAILS_TOOLTIP_38	Tare vs Sura: Daune mai mari împotriva sura.
+DETAILS_TOOLTIP_39	Tare vs ªamani: Daune mai mari împotriva ºamanilor.
+DETAILS_TOOLTIP_4	Tare vs Vampiri: Daune mai mari împotriva vampirilor.
+DETAILS_TOOLTIP_40	Tare vs Lycani: Daune mai mari împotriva lycanilor.
+DETAILS_TOOLTIP_41	ªansã de apãrare la atacurile primite de la rãzboinici: Reduce daunele primite de la rãzboinici.
+DETAILS_TOOLTIP_42	ªansã de apãrare la atacurile primite de la ninja: Reduce daunele primite de la ninja.
+DETAILS_TOOLTIP_43	ªansã de apãrare la atacurile primite de la sura: Reduce daunele primite de la sura.
+DETAILS_TOOLTIP_44	ªansã de apãrare la atacurile primite de la ºaman: Reduce daunele primite de la ºaman.
+DETAILS_TOOLTIP_45	ªansã de apãrare la atacurile primite de la lycan: Reduce daunele primite de la lycan.
+DETAILS_TOOLTIP_46	Reduce daunele produse de o sabie.
+DETAILS_TOOLTIP_47	Reduce daunele produse de o armã douã-mâini.
+DETAILS_TOOLTIP_48	Reduce daunele produse de un pumnal.
+DETAILS_TOOLTIP_49	Reduce daunele produse de o ghearã.
+DETAILS_TOOLTIP_5	Tare vs Monºtri: Daune mai mari împotriva monºtrilor.
+DETAILS_TOOLTIP_50	Reduce daunele produse de un clopot.
+DETAILS_TOOLTIP_51	Reduce daunele produse de un evantai.
+DETAILS_TOOLTIP_52	Reduce daunele produse de un arc cu sãgeþi
+DETAILS_TOOLTIP_53	Creºte ºansa de a bate un oponent.
+DETAILS_TOOLTIP_54	Creºte ºansa de a încetini un oponent.
+DETAILS_TOOLTIP_55	Creºte ºansa de a otrãvi un oponent.
+DETAILS_TOOLTIP_56	Reduce daunele produse de otravã.
+DETAILS_TOOLTIP_57	Creºte ºansa de a executa un atac sângeros.
+DETAILS_TOOLTIP_58	Rezistenþã vs atac sângeros: Reduce daunele produse de atac sângeros.
+DETAILS_TOOLTIP_59	Furã PV de la oponenþi atunci când îi loveºti.
+DETAILS_TOOLTIP_6	Tare împotriva Monºtrilor Zodiac: Daune mai mari împotriva monºtrilor Zodiac.
+DETAILS_TOOLTIP_60	Furã PM de la oponenþi atunci când îi loveºti.
+DETAILS_TOOLTIP_61	Mãreºte recuperarea punctelor de viaþã.
+DETAILS_TOOLTIP_62	Mãreºte recuperarea punctelor de magie.
+DETAILS_TOOLTIP_63	ªansã de blocare a unui atac fizic: Creºte ºansa de a evita un atac fizic.
+DETAILS_TOOLTIP_64	ªansã de evitare a unui atac cu sãgeþi: Creºte ºansa de a evita un atac cu sãgeþi sau de la distanþã de la un monstru.
+DETAILS_TOOLTIP_65	ªansã de a reflecta lovituri fizice: O parte dintre daunele fizice de la oponent sunt reflectate cãtre el.
+DETAILS_TOOLTIP_66	Recuperare PV când omori: Punctele tale de viaþã cresc când omori un oponent.
+DETAILS_TOOLTIP_67	Recuperare PM când omori: Punctele tale de magie cresc când omori un oponent.
+DETAILS_TOOLTIP_68	ªansa de a câºtiga experienþã dublã: Creºte ºansa de a câºtiga bonus de EXP atunci când omori un oponent.
+DETAILS_TOOLTIP_69	ªansã la drop dublu Yang: Creºte ºansa de a primi de douã ori cantiatea de Yang.
+DETAILS_TOOLTIP_7	Tare vs Animale: Daune mai mari împotriva animalelor sãlbatice.
+DETAILS_TOOLTIP_70	ªansã la drop obiecte: Creºte ºansa de a primi de douã ori numãrul obiectelor.
+DETAILS_TOOLTIP_71	Mãreºte valoarea atacului.
+DETAILS_TOOLTIP_72	Mãreºte valoarea apãrãrii.
+DETAILS_TOOLTIP_73	Creºte colectarea de experienþã.
+DETAILS_TOOLTIP_74	ªansã drop obiecte: Îþi dubleazã ºansa de a colecta obiecte.
+DETAILS_TOOLTIP_75	ªansã drop Yang: Îþi dubleazã ºansa de a colecta mai mult Yang.
+DETAILS_TOOLTIP_76	Reduce daunele primite de la atacul magic.
+DETAILS_TOOLTIP_77	Reduce rezistenþa magicã a oponenþilor.
+DETAILS_TOOLTIP_8	Tare vs Ezoterici: Daune mai mari împotriva ezotericilor.
+DETAILS_TOOLTIP_9	Tare vs Demoni: Daune mai mari împotriva demonilor.
+DETAILS_TOOLTIP_ATTBONUS_BELL	Vulnerabil apãrare Clopot: Reduce apãrarea oponentului în faþa clopotului.
+DETAILS_TOOLTIP_ATTBONUS_BOW	Vulnerabil apãrare Sãgeatã: Reduce apãrarea oponentului în faþa sãgeþilor.
+DETAILS_TOOLTIP_ATTBONUS_CLAW	Vulnerabil apãrare Ghearã: Reduce apãrarea oponentului în faþa ghearei.
+DETAILS_TOOLTIP_ATTBONUS_DAGGER	Vulnerabil apãrare Pumnal: Reduce apãrarea oponentului în faþa pumnalului.
+DETAILS_TOOLTIP_ATTBONUS_FAN	Vulnerabil apãrare Evantai: Reduce apãrarea oponentului în faþa evantaiului.
+DETAILS_TOOLTIP_ATTBONUS_SWORD	Vulnerabil apãrare Sabie: Reduce apãrarea oponentului în faþa sabiei.
+DETAILS_TOOLTIP_ATTBONUS_TWOHAND	Vulnerabil apãrare Douã Mâini: Reduce apãrarea oponentului în faþa armelor douã mâini.
+DETAILS_TOOLTIP_HIT_PCT	Creºte ºansa de a lovi inamicul
+DETAILS_TOOLTIP_RESIST_MOUNT_FALL	Rezistenþã la alunecare: Reduce ºansa de a aluneca de pe mount.

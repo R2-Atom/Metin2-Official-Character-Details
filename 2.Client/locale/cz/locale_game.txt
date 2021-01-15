@@ -1,0 +1,181 @@
+DETAILS_0	Síla proti Metinu
+DETAILS_1	Síla proti pololidem
+DETAILS_10	Síla vs pouš. pøíš.
+DETAILS_11	Síla proti broukùm
+DETAILS_12	Hodnota útoku
+DETAILS_13	Hodnota obrany
+DETAILS_14	Prùmìrné poškození
+DETAILS_15	Prùm. odol. pošk.
+DETAILS_16	Poškození schopností
+DETAILS_17	Odolnost proti poš. schop.
+DETAILS_18	Útok magií/zbraní
+DETAILS_19	Magický útok
+DETAILS_2	Odol.proti pololidem
+DETAILS_20	Šance na krit. zásah
+DETAILS_21	Pronikavý zásah
+DETAILS_22	Odol. pr. krit. zás.
+DETAILS_23	Odol. pr. pron. zás.
+DETAILS_24	Odol. proti blesku
+DETAILS_25	Odol. proti ledu
+DETAILS_26	Odol. proti temnotì
+DETAILS_27	Odolnost proti ohni
+DETAILS_28	Odolnost proti vìtru
+DETAILS_29	Odolnost proti Zemi
+DETAILS_3	Síla proti Orkùm
+DETAILS_30	Síla blesku
+DETAILS_31	Síla ledu
+DETAILS_32	Síla temnoty
+DETAILS_33	Síla ohnì
+DETAILS_34	Síla vìtru
+DETAILS_35	Síla Zemì
+DETAILS_36	Síla proti váleè.
+DETAILS_37	Síla proti ninjùm
+DETAILS_38	Síla proti Surùm
+DETAILS_39	Síla proti šamanùm
+DETAILS_4	Síla proti nemrtvým
+DETAILS_40	Síla proti Lycanùm
+DETAILS_41	Obrana proti váleè.
+DETAILS_42	Obrana proti ninjùm
+DETAILS_43	Obrana proti Surùm
+DETAILS_44	Obrana proti šamanùm
+DETAILS_45	Obrana proti Lycanùm
+DETAILS_46	Obrana proti meèùm
+DETAILS_47	Obrana pr. ob. meèùm
+DETAILS_48	Obrana proti dýkám
+DETAILS_49	Obrana proti drápùm
+DETAILS_5	Síla proti monstrùm
+DETAILS_50	Obrana proti zvonùm
+DETAILS_51	Obrana proti vìjíøùm
+DETAILS_52	Obrana proti šípùm
+DETAILS_53	Šance na bezvìdomí
+DETAILS_54	Šance na zpomalení
+DETAILS_55	Šance na otrávení
+DETAILS_56	Odolnost vùèi jedu
+DETAILS_57	Krvácivý útok
+DETAILS_58	Odol. pr. krv. útoku
+DETAILS_59	Kradení ZB
+DETAILS_6	Síla pr. pø. Zvìro.
+DETAILS_60	Kradení MB
+DETAILS_61	Obnova ZB
+DETAILS_62	Obnova MB
+DETAILS_63	Blokování útoku
+DETAILS_64	Vyhnutí útoku šípy
+DETAILS_65	Odražení út. zbraní
+DETAILS_66	Obnova ZB pøi zabití
+DETAILS_67	Obnova MB pøi zabití
+DETAILS_68	Dvojité BZK
+DETAILS_69	Dvojité Yangy
+DETAILS_7	Síla proti zvíøatùm
+DETAILS_70	Šance na pad. pøedm.
+DETAILS_71	Hodnota útoku
+DETAILS_72	Hodnota obrany
+DETAILS_73	BZK
+DETAILS_74	Šance na pad. pøedm.
+DETAILS_75	Dvojité Yangy
+DETAILS_76	Odolnost proti magii
+DETAILS_77	Odolnost proti magii
+DETAILS_8	Síla proti esoter.
+DETAILS_9	Síla proti ïáblu
+DETAILS_ATTBONUS_BELL	Proražení zvonu
+DETAILS_ATTBONUS_BOW	Proražení šípu
+DETAILS_ATTBONUS_CLAW	Proražení drápù
+DETAILS_ATTBONUS_DAGGER	Proražení dýky
+DETAILS_ATTBONUS_FAN	Proražení vìjíøe
+DETAILS_ATTBONUS_SWORD	Proražení meèe
+DETAILS_ATTBONUS_TWOHAND	Proražení obouruèního meèe
+DETAILS_CATE_1	Poškození/Obrana
+DETAILS_CATE_2	Bonus elementálu
+DETAILS_CATE_3	Bonus tøídy
+DETAILS_CATE_4	Bonus zbranì
+DETAILS_CATE_5	Jiný bonus
+DETAILS_CATE_6	Speciální bonus
+DETAILS_HIT_PCT	Pøesnost
+DETAILS_RESIST_MOUNT_FALL	Odolnost proti pádu
+DETAILS_TITLE	Detaily
+DETAILS_TOOLTIP_0	Síla proti kamenùm Metin: dává vìtší poškození kamenlm Metin.
+DETAILS_TOOLTIP_1	Silný proti pololidem: dává vìtší poškození pololidem.
+DETAILS_TOOLTIP_10	Síla proti pouštním pøíšerám: dává vìtší poškození pouštním pøíšerám.
+DETAILS_TOOLTIP_11	Díla proti broukùm: dává vìtší poškození broukùm.
+DETAILS_TOOLTIP_12	Zvýší tvou hodnotu útoku.
+DETAILS_TOOLTIP_13	Zvýší tvou hodnotu obrany.
+DETAILS_TOOLTIP_14	Zvyšuje prùmìrné poškození, které pøi útoku zpùsobíš protivníkovi.
+DETAILS_TOOLTIP_15	Odolnost proti prùmìrnému poškození: snižuje poškození, které utržíš bìhem útoku.
+DETAILS_TOOLTIP_16	Zvyšuje poškození zpùsobené schopností.
+DETAILS_TOOLTIP_17	Zvyšuje poškození zpùsobené schopností.
+DETAILS_TOOLTIP_18	Zvyšuje hodnotu fyzického i magického útoku.
+DETAILS_TOOLTIP_19	Zvýší prùmìrné poškození, které dáváš nepøátelùm bìhem útoku.
+DETAILS_TOOLTIP_2	Odolnost proti pololidem: snižuje poškození, které utržíš od pololidí.
+DETAILS_TOOLTIP_20	Zvýší šanci docílit v boji kritický zásah.
+DETAILS_TOOLTIP_21	Šance na pronikavý zásah:. zvýší šanci na pronikavý zásah bìhem boje.
+DETAILS_TOOLTIP_22	Odolnost proti kritickému zásahu: snižuje poškození od kritického zásahu.
+DETAILS_TOOLTIP_23	Odolnost proti pronikavému zásahu: snižuje poškození od pronikavého zásahu.
+DETAILS_TOOLTIP_24	Snižuje poškození, které ti zpùsobí nìkteré pøíšery.
+DETAILS_TOOLTIP_25	Snižuje poškození, které ti zpùsobí nìkteré pøíšery.
+DETAILS_TOOLTIP_26	Odolnost proti temnotì: snižuje poškození, které ti zpùsobí nìkteré pøíšery.
+DETAILS_TOOLTIP_27	Snižuje poškození, které ti zpùsobí nìkteré pøíšery.
+DETAILS_TOOLTIP_28	Snižuje poškození, které ti zpùsobí nìkteré pøíšery.
+DETAILS_TOOLTIP_29	Snižuje poškození, které ti zpùsobí nìkteré pøíšery.
+DETAILS_TOOLTIP_3	Silný proti Orkùm: dává vìtší poškození Orkùm.
+DETAILS_TOOLTIP_30	Zvyšuje poškození zpùsobené sílou blesku.
+DETAILS_TOOLTIP_31	Zvyšuje poškození zpùsobené sílou ledu.
+DETAILS_TOOLTIP_32	Zvyšuje poškození zpùsobené sílou temnoty.
+DETAILS_TOOLTIP_33	Zvyšuje poškození zpùsobené sílou ohnì.
+DETAILS_TOOLTIP_34	Zvyšuje poškození zpùsobené sílou vìtru.
+DETAILS_TOOLTIP_35	Zvyšuje poškození zpùsobené sílou Zemì.
+DETAILS_TOOLTIP_36	Síla proti váleèníkùm: dává vìtší poškození váleèníkùm.
+DETAILS_TOOLTIP_37	Síla proti ninjùm: dává vìtší poškození ninjùm.
+DETAILS_TOOLTIP_38	Síla proti Surùm: dává vìtší poškození Surùm.
+DETAILS_TOOLTIP_39	Síla proti šamanùm: dává vìtší poškození šamanùm.
+DETAILS_TOOLTIP_4	Síla proti nemrtvým: dává vìtší poškození nemrtvým.
+DETAILS_TOOLTIP_40	Síla proti Lycanùm: dává vìtší poškození Lycanùm.
+DETAILS_TOOLTIP_41	Odolnost proti váleèníkùm: snižuje poškození, které utrpíš od váleèníkù.
+DETAILS_TOOLTIP_42	Odolnost proti ninjùm: snižuje poškození, které utrpíš od ninjù.
+DETAILS_TOOLTIP_43	Odolnost proti Surùm: snižuje poškození, které utrpíš od Surù.
+DETAILS_TOOLTIP_44	Odolnost proti šamanùm: snižuje poškození, které utrpíš od šamanù.
+DETAILS_TOOLTIP_45	Odolnost proti Lycanùm: snižuje poškození, které utrpíš od Lycanù.
+DETAILS_TOOLTIP_46	Snižuje poškození od meèe.
+DETAILS_TOOLTIP_47	Snižuje poškození od dvouruèní zbranì.
+DETAILS_TOOLTIP_48	Snižuje poškození od dýky.
+DETAILS_TOOLTIP_49	Snižuje poškození od drápù.
+DETAILS_TOOLTIP_5	Síla proti pøíšerám: dává vìtší poškození pøíšerám.
+DETAILS_TOOLTIP_50	Snižuje poškození od zvonu.
+DETAILS_TOOLTIP_51	Snižuje poškození od vìjíøe.
+DETAILS_TOOLTIP_52	Snižuje poškození od lukù a šípù.
+DETAILS_TOOLTIP_53	Zvyšuje šanci na knokautování protivníka.
+DETAILS_TOOLTIP_54	Zvyšuje šanci na zpomalení protivníka.
+DETAILS_TOOLTIP_55	Zvyšuje šanci na otrávení protivníka.
+DETAILS_TOOLTIP_56	Snižuje poškození od otravy.
+DETAILS_TOOLTIP_57	Zvyšuje šanci na krvácivý útok.
+DETAILS_TOOLTIP_58	Odolnost proti krvácivému útoku: snižuje poškození od krvácivého útoku.
+DETAILS_TOOLTIP_59	Vysává z protivníka ZB, když jej zasáhneš.
+DETAILS_TOOLTIP_6	Síla proti pøíšerám Zvìrokruhu: dává vìtší poškození pøíšerám Zvìrokruhu.
+DETAILS_TOOLTIP_60	Vysává z protivníka MB, když jej zasáhneš.
+DETAILS_TOOLTIP_61	Zvyšuje rychlost obnovy ZB.
+DETAILS_TOOLTIP_62	Zvyšuje rychlost obnovy MB.
+DETAILS_TOOLTIP_63	Šance blokovat útok zbraní: zvyšuje šanci vyhnout se útoku zbraní.
+DETAILS_TOOLTIP_64	Šance blokovat útok šípy: zvyšuje šanci vyhnout se útoku šípy nebo útoku pøíšery na dálku.
+DETAILS_TOOLTIP_65	Šance odrazit útok zbraní: èást poškození od protivníka je odražena zpìt na nìj.
+DETAILS_TOOLTIP_66	Obnova ZB pøi zabíjení: tvoje ZB se zvýší pøi zabití protivníka.
+DETAILS_TOOLTIP_67	Obnova MB pøi zabíjení: tvoje MB se zvýší pøi zabití protivníka.
+DETAILS_TOOLTIP_68	Šance na dvojitou zkušenost: zvyšuje šanci na zisk bonusu BZK když porazíš protivníka.
+DETAILS_TOOLTIP_69	Šance na dvojnásobek Yangù: zvyšuje šanci na zisk dvojnásobného množství Yangù.
+DETAILS_TOOLTIP_7	Síla proti zvíøatùm: zvyšuje poškození divokým zvíøatùm.
+DETAILS_TOOLTIP_70	Šance na zisk pøedmìtu: zvyšuje šanci získat dvakrát vìtší množství pøedmìtù.
+DETAILS_TOOLTIP_71	Zvýší tvou hodnotu útoku.
+DETAILS_TOOLTIP_72	Zvýší tvou hodnotu obrany.
+DETAILS_TOOLTIP_73	Zvýší zisk zkušeností.
+DETAILS_TOOLTIP_74	Šance na padnutí pøedmìtu: zvyšuje šanci na padnutí pøedmìtu.
+DETAILS_TOOLTIP_75	Šance na zisk Yangù: zvyšuje šanci na zisk více Yangù.
+DETAILS_TOOLTIP_76	Snižuje poškození, které utrpíš od magického útoku.
+DETAILS_TOOLTIP_77	Snižuje odolnost proti magii tvého protivníka.
+DETAILS_TOOLTIP_8	Síla proti ezoterikùm: dává vìtší poškození ezoterikùm.
+DETAILS_TOOLTIP_9	Síla proti ïáblùm: dává vìtší poškození ïáblùm.
+DETAILS_TOOLTIP_ATTBONUS_BELL	Proražení obrany zvonu: Snižuje obranu zvonem tvého protivníka.
+DETAILS_TOOLTIP_ATTBONUS_BOW	Proražení obrany šípu: Snižuje obranu šípem tvého protivníka.
+DETAILS_TOOLTIP_ATTBONUS_CLAW	Proražení obrany drápu: Snižuje obranu drápem tvého protivníka.
+DETAILS_TOOLTIP_ATTBONUS_DAGGER	Proražení obrany dýky: Snižuje obranu dýkou tvého protivníka.
+DETAILS_TOOLTIP_ATTBONUS_FAN	Proražení obrany vìjíøe: Snižuje obranu vìjíøem tvého protivníka.
+DETAILS_TOOLTIP_ATTBONUS_SWORD	Proražení obrany meèe: Snižuje obranu meèem tvého protivníka.
+DETAILS_TOOLTIP_ATTBONUS_TWOHAND	Proražení obrany obouruèního meèe: Snižuje obranu obouruèním meèem tvého protivníka.
+DETAILS_TOOLTIP_HIT_PCT	Zvyšuje šanci na zásah nepøítele
+DETAILS_TOOLTIP_RESIST_MOUNT_FALL	Odolnost proti pádu: Snižuje šanci na pád z jezdeckého zvíøete.

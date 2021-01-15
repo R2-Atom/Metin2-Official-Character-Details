@@ -1,0 +1,181 @@
+DETAILS_0	Metin elleni erõ
+DETAILS_1	Félemberek ell. erõ
+DETAILS_10	Siv. szörnyek e. erõ
+DETAILS_11	Rovarok elleni erõ
+DETAILS_12	Támadóérték
+DETAILS_13	Védelmi érték
+DETAILS_14	Átlagos kár
+DETAILS_15	Átlagos kár ell.
+DETAILS_16	Készség kár
+DETAILS_17	Készség kár ellenállás
+DETAILS_18	Mág./közelharci tám.
+DETAILS_19	Mágikus támadás
+DETAILS_2	Félemberek ell. véd.
+DETAILS_20	Krit. találat esélye
+DETAILS_21	Átható találat
+DETAILS_22	Krit. találat ell.
+DETAILS_23	Átható találat ell.
+DETAILS_24	Villám ellenállás
+DETAILS_25	Jég ellenállás
+DETAILS_26	Sötétség ellenállás
+DETAILS_27	Tûz ellenállás
+DETAILS_28	Szél ellenállás
+DETAILS_29	Föld ellenállás
+DETAILS_3	Orkok elleni erõ
+DETAILS_30	Villám ereje
+DETAILS_31	Jég ereje
+DETAILS_32	Sötétség ereje
+DETAILS_33	Tûz ereje
+DETAILS_34	Szél ereje
+DETAILS_35	Föld ereje
+DETAILS_36	Harcosok elleni erõ
+DETAILS_37	Nindzsák elleni erõ
+DETAILS_38	Surák elleni erõ
+DETAILS_39	Sámánok elleni erõ
+DETAILS_4	Élõholtak elleni erõ
+DETAILS_40	Vérfarkasok ell. erõ
+DETAILS_41	Harcos védelem
+DETAILS_42	Nindzsa védelem
+DETAILS_43	Sura védelem
+DETAILS_44	Sámán védelem
+DETAILS_45	Vérfarkas védelem
+DETAILS_46	Kard védelem
+DETAILS_47	Kétkezes védelem
+DETAILS_48	Tõr védelem
+DETAILS_49	Karom védelem
+DETAILS_5	Szörnyek elleni erõ
+DETAILS_50	Harang védelem
+DETAILS_51	Legyezõ védelem
+DETAILS_52	Nyíl védelem
+DETAILS_53	Ájulási esély
+DETAILS_54	Lassítás esélye
+DETAILS_55	Mérgezés esélye
+DETAILS_56	Méreg ellenállás
+DETAILS_57	Vérzõ támadás
+DETAILS_58	Vérzõ t. ellenállás
+DETAILS_59	TP lopás
+DETAILS_6	Zod. szörnyek e. erõ
+DETAILS_60	MP lopás
+DETAILS_61	TP helyreállítás
+DETAILS_62	MP helyreállítás
+DETAILS_63	Támadás kivédése
+DETAILS_64	Nyilak elkerülése
+DETAILS_65	Fiz. tám. visszav.
+DETAILS_66	TP helyreá. öléskor
+DETAILS_67	MP helyreá. öléskor
+DETAILS_68	Dupla EXP
+DETAILS_69	Dupla Yang
+DETAILS_7	Állatok elleni erõ
+DETAILS_70	Dobási esély
+DETAILS_71	Támadóérték
+DETAILS_72	Védelmi érték
+DETAILS_73	EXP
+DETAILS_74	Dobási esély
+DETAILS_75	Dupla Yang
+DETAILS_76	Mágia ellenállás
+DETAILS_77	Ellenmágia
+DETAILS_8	Ezot. elleni erõ
+DETAILS_9	Ördögök elleni erõ
+DETAILS_ATTBONUS_BELL	Harang v. áttörés
+DETAILS_ATTBONUS_BOW	Nyíl v. áttörés
+DETAILS_ATTBONUS_CLAW	Karom v. áttörés
+DETAILS_ATTBONUS_DAGGER	Tõr v. áttörés
+DETAILS_ATTBONUS_FAN	Legyezõ v. áttörés
+DETAILS_ATTBONUS_SWORD	Kard v. áttörés
+DETAILS_ATTBONUS_TWOHAND	Kétkezes v. áttörés
+DETAILS_CATE_1	Sebzés/Védelem
+DETAILS_CATE_2	Elementáris bónusz
+DETAILS_CATE_3	Karakterosztály bónusz
+DETAILS_CATE_4	Fegyver bónusz
+DETAILS_CATE_5	Egyéb bónusz
+DETAILS_CATE_6	Különleges bónusz
+DETAILS_HIT_PCT	Pontosság
+DETAILS_RESIST_MOUNT_FALL	Esés ellenállás
+DETAILS_TITLE	Részletek
+DETAILS_TOOLTIP_0	Metinkövek elleni erõ: Nagyobb sebzést okozol a Metinköveknek.
+DETAILS_TOOLTIP_1	Nagyobb sebzést okozol a félember típusú ellenfeleknek.
+DETAILS_TOOLTIP_10	Sivatagi szörnyek elleni erõ: Nagyobb sebzést okozol a sivatagi szörnyeknek.
+DETAILS_TOOLTIP_11	Rovarok elleni erõ: Nagyobb sebzést okozol a rovaroknak.
+DETAILS_TOOLTIP_12	Megnöveli támadóértéked.
+DETAILS_TOOLTIP_13	Megnöveli védelmi értéked.
+DETAILS_TOOLTIP_14	Növeli az átlagos károkat, amit az ellenségeidnek okozol támadáskor.
+DETAILS_TOOLTIP_15	Csökkenti a támadásban elszenvedett sebzéseidet.
+DETAILS_TOOLTIP_16	Megnöveli a készségek által okozott sebzést.
+DETAILS_TOOLTIP_17	Csökkenti a készségek által elszenvedett sebzéseidet.
+DETAILS_TOOLTIP_18	Növeli a fizikai és mágikus támadó értékedet is.
+DETAILS_TOOLTIP_19	Növeli a mágikus támadásokkal okozott sebzésed.
+DETAILS_TOOLTIP_2	Félemberek elleni védelem: Csökkenti a félember típusú ellenfelek által okozott sebzést.
+DETAILS_TOOLTIP_20	Növeli a kritikus találat bevitelének esélyét.
+DETAILS_TOOLTIP_21	Növeli az átható találat bevitelének esélyét.
+DETAILS_TOOLTIP_22	Kritikus találat ellenállás: Csökkenti a kritikus találatokból származó sebzést.
+DETAILS_TOOLTIP_23	Átható találat ellenállás: Csökkenti az átható találatokból származó sebzést.
+DETAILS_TOOLTIP_24	Csökkenti bizonyos szörnyek által okozott sebzést.
+DETAILS_TOOLTIP_25	Csökkenti bizonyos szörnyek által okozott sebzést.
+DETAILS_TOOLTIP_26	Csökkenti bizonyos szörnyek által okozott sebzést.
+DETAILS_TOOLTIP_27	Csökkenti bizonyos szörnyek által okozott sebzést.
+DETAILS_TOOLTIP_28	Csökkenti bizonyos szörnyek által okozott sebzést.
+DETAILS_TOOLTIP_29	Csökkenti bizonyos szörnyek által okozott sebzést.
+DETAILS_TOOLTIP_3	Orkok elleni erõ: Nagyobb sebzést okozol az orkoknak.
+DETAILS_TOOLTIP_30	Növeli a sebzést, amit a villám erejével okozol.
+DETAILS_TOOLTIP_31	Növeli a sebzést, amit a jég erejével okozol.
+DETAILS_TOOLTIP_32	Növeli a sebzést, amit a sötétség erejével okozol.
+DETAILS_TOOLTIP_33	Növeli a sebzést, amit a tûz erejével okozol.
+DETAILS_TOOLTIP_34	Növeli a sebzést, amit a szél erejével okozol.
+DETAILS_TOOLTIP_35	Növeli a sebzést, amit a föld erejével okozol.
+DETAILS_TOOLTIP_36	Harcosok elleni erõ: Nagyobb sebzést okozol a harcosoknak.
+DETAILS_TOOLTIP_37	Nindzsák elleni erõ: Nagyobb sebzést okozol a nindzsáknak.
+DETAILS_TOOLTIP_38	Surák elleni erõ: Nagyobb sebzést okozol a suráknak.
+DETAILS_TOOLTIP_39	Sámánok elleni erõ: Nagyobb sebzést okozol a sámánoknak.
+DETAILS_TOOLTIP_4	Élõholtak elleni erõ: Nagyobb sebzést okozol az élõholtaknak.
+DETAILS_TOOLTIP_40	Vérfarkasok elleni erõ: Nagyobb sebzést okozol a vérfarkasoknak.
+DETAILS_TOOLTIP_41	Védekezési esély harcos támadás ellen: Csökkenti a harcosok által neked okozott sebzést.
+DETAILS_TOOLTIP_42	Védekezési esély nindzsa támadás ellen: Csökkenti a nindzsák által neked okozott sebzést.
+DETAILS_TOOLTIP_43	Védekezési esély sura támadás ellen: Csökkenti a surák által neked okozott sebzést.
+DETAILS_TOOLTIP_44	Védekezési esély sámán támadás ellen: Csökkenti a sámánok által neked okozott sebzést.
+DETAILS_TOOLTIP_45	Védekezési esély vérfarkas támadás ellen: Csökkenti a vérfarkasok által neked okozott sebzést.
+DETAILS_TOOLTIP_46	Csökkenti a kardok által okozott sérüléseket.
+DETAILS_TOOLTIP_47	Csökkenti a kétkezes fegyverek által okozott sérüléseket.
+DETAILS_TOOLTIP_48	Csökkenti a tõrök által okozott sérüléseket.
+DETAILS_TOOLTIP_49	Csökkenti a karmok által okozott sérüléseket.
+DETAILS_TOOLTIP_5	Nagyobb sebzést okozol a szörnyeknek.
+DETAILS_TOOLTIP_50	Csökkenti a harangok által okozott sérüléseket.
+DETAILS_TOOLTIP_51	Csökkenti a legyezõk által okozott sérüléseket.
+DETAILS_TOOLTIP_52	Csökkenti az íjak és nyilak által okozott sérüléseket.
+DETAILS_TOOLTIP_53	Növeli az esélyt az ellenfelek kiütésére.
+DETAILS_TOOLTIP_54	Növeli az esélyt az ellenfél lelassítására.
+DETAILS_TOOLTIP_55	Növeli az esélyt az ellenfél megmérgezésére.
+DETAILS_TOOLTIP_56	Csökkenti a méreg által okozott sebzést.
+DETAILS_TOOLTIP_57	Növeli az esélyt vérzõ támadás bevitelére.
+DETAILS_TOOLTIP_58	Vérzõ támadás ellenállás: Csökkenti a vérzõ támadás által okozott sebzést.
+DETAILS_TOOLTIP_59	Elszívja az ellenfeled TP-jét, amikor eltalálod.
+DETAILS_TOOLTIP_6	Zodiákus szörnyek elleni erõ: Nagyobb sebzést okozol a Zodiákus szörnyeknek.
+DETAILS_TOOLTIP_60	Elszívja az ellenfeled MP-jét, amikor eltalálod.
+DETAILS_TOOLTIP_61	Növeli az életerõ pontjaid helyreállítását.
+DETAILS_TOOLTIP_62	Növeli a mana pontjaid helyreállítását.
+DETAILS_TOOLTIP_63	Esély közelharci támadás kivédésre: Növeli az esélyt közelharci támadás kivédésére.
+DETAILS_TOOLTIP_64	Növeli az esélyt nyilak és szörnyek általi távolsági támadások elkerülésére.
+DETAILS_TOOLTIP_65	Esély közelharci találatok visszaverésére: Az ellenfél közelharci támadásainak egy része visszaverõdik rá.
+DETAILS_TOOLTIP_66	Az életerõ pontjaid növekednek, amikor megölsz egy ellenséget.
+DETAILS_TOOLTIP_67	A mana pontjaid növekednek, amikor megölsz egy ellenséget.
+DETAILS_TOOLTIP_68	Esély dupla tapasztalati pont szerzésére: Növeli az EXP bónusz esélyét, amikor legyõzöl egy ellenfelet.
+DETAILS_TOOLTIP_69	Esély dupla mennyiségû Yang eldobására: Növeli az esélyét, hogy kétszer annyi Yangot kapj.
+DETAILS_TOOLTIP_7	Nagyobb sebzést okozol a vadállatoknak.
+DETAILS_TOOLTIP_70	Esély tárgy dobásra: Növeli az esélyét, hogy kétszer annyi tárgyat zsákmányolj.
+DETAILS_TOOLTIP_71	Megnöveli támadóértéked.
+DETAILS_TOOLTIP_72	Megnöveli védelmi értéked.
+DETAILS_TOOLTIP_73	Megnöveli a tapasztalat gyûjtését.
+DETAILS_TOOLTIP_74	Tárgydobási esély: Növeli a tárgyak zsákmányolásának esélyét.
+DETAILS_TOOLTIP_75	Yang eldobási esély: Növeli az esélyét, hogy több Yangot zsákmányolj.
+DETAILS_TOOLTIP_76	Csökkenti a mágikus támadásoktól elszenvedett sebzést.
+DETAILS_TOOLTIP_77	Csökkenti az ellenfeled mágia ellenállását.
+DETAILS_TOOLTIP_8	Nagyobb sebzést okozol az ezoterikusoknak.
+DETAILS_TOOLTIP_9	Nagyobb sebzést okozol az ördögöknek.
+DETAILS_TOOLTIP_ATTBONUS_BELL	Harang védelem áttörés: Csökkenti ellenfeled harang védelmét.
+DETAILS_TOOLTIP_ATTBONUS_BOW	Nyíl védelem áttörés: Csökkenti ellenfeled nyíl védelmét.
+DETAILS_TOOLTIP_ATTBONUS_CLAW	Karom védelem áttörés: Csökkenti ellenfeled karom védelmét.
+DETAILS_TOOLTIP_ATTBONUS_DAGGER	Tõr védelem áttörés: Csökkenti ellenfeled tõr védelmét.
+DETAILS_TOOLTIP_ATTBONUS_FAN	Legyezõ védelem áttörés: Csökkenti ellenfeled legyezõ védelmét.
+DETAILS_TOOLTIP_ATTBONUS_SWORD	Kard védelem áttörés: Csökkenti ellenfeled kard védelmét.
+DETAILS_TOOLTIP_ATTBONUS_TWOHAND	Kétkezes védelem áttörés: Csökkenti ellenfeled kétkezes védelmét.
+DETAILS_TOOLTIP_HIT_PCT	Növeli az esélyt az ellenség eltalálására
+DETAILS_TOOLTIP_RESIST_MOUNT_FALL	Esés ellenállás: Csökkenti az esélyét, hogy leess a hátasodról.
