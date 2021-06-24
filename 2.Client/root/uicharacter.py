@@ -9,6 +9,7 @@ if app.ENABLE_DETAILS_UI:
 #Change
 	def __init__(self):
 		if app.ENABLE_DETAILS_UI:
+			self.chWndPos = (24 + 45, (wndMgr.GetScreenHeight() / 2) - 200)	##ATOM_FIX_BONUS_WINDOW
 			self.chDetailsWnd = None
 			self.isOpenedDetailsWnd = False
 		ui.ScriptWindow.__init__(self)
@@ -52,9 +53,11 @@ if app.ENABLE_DETAILS_UI:
 			self.ExpandBtn.Show()
 			self.MinimizeBtn.Hide()
 			
-		def __ClickExpandButton(self):			
+		def __ClickExpandButton(self):
+			x, y = self.GetMainBoardPosition()	##ATOM_FIX_BONUS_WINDOW
 			if not self.chDetailsWnd:
 				self.chDetailsWnd = uiCharacterDetails.CharacterDetailsUI(self)
+				self.chDetailsWnd.AdjustPosition(x-45, y-9)	##ATOM_FIX_BONUS_WINDOW	Ustawienie pozycji okienka bonusu tuz po kliknieciu "c" > wysuniecie bonusu		
 				self.chDetailsWnd.Show()
 			else:
 				self.chDetailsWnd.Show()
@@ -68,8 +71,12 @@ if app.ENABLE_DETAILS_UI:
 			self.ExpandBtn.Show()
 			
 		def OnMoveWindow(self, x, y):
+			self.chWndPos = x + 45, y + 9	##ATOM_FIX_BONUS_WINDOW	Ustawienie pozycji okienka bonusu tuz po kliknieciu "c" przesuneicie okna i > wysuniecie bonusu	
 			if self.chDetailsWnd:
 				self.chDetailsWnd.AdjustPosition(x, y)
+		def GetMainBoardPosition(self):		##ATOM_FIX_BONUS_WINDOW	
+			x, y = self.chWndPos		##ATOM_FIX_BONUS_WINDOW	
+			return x, y			##ATOM_FIX_BONUS_WINDOW	
 
 #Find
 		for titleBarValue in self.titleBarDict.itervalues():
